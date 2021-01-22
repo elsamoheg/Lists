@@ -50,7 +50,7 @@
 
 5. How to use the Minimax Algorithm to create an unbeatable game AI. In this beginner AI tutorial, you'll use step-by-step illustrations to understand how the algorithm decides which move to make next. (25 minute read): https://www.freecodecamp.org/news/minimax-algorithm-guide-how-to-create-an-unbeatable-ai/
 
-. Dynamic Programing is a style of coding where you store the results of your algorithm in a data structure while it runs. These strategies can speed up your code and help you ace your job interviews. This new course will teach you all about Memoization, Tabulation, and other approaches for solving coding challenges. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-dynamic-programing-to-solve-coding-challenges/
+1. Dynamic Programing is a style of coding where you store the results of your algorithm in a data structure while it runs. These strategies can speed up your code and help you ace your job interviews. This new course will teach you all about Memoization, Tabulation, and other approaches for solving coding challenges. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-dynamic-programing-to-solve-coding-challenges/
 
 2. TCP/IP are two protocols that make the modern internet possible. Victoria explains how they work through drawings of a layer cake. (6 minute read): https://www.freecodecamp.org/news/what-is-tcp-ip-layers-and-protocols-explained/
 
@@ -100,8 +100,6 @@
 
 5. Watch this Super Mario Bros-themed tech talk by prolific freeCodeCamp contributor Colby Fayock. He explores the core features of HTML and CSS that he thinks all web developers should know. (22 minute YouTube talk): https://www.freecodecamp.org/news/learn-the-fundamentals-of-web-development/
 
-Here are this week's five links that are worth your time:
-
 1. This full-length course will teach you how to build your own social network platform. And in the process, you'll learn key web development tools: MongoDB, Express, React, Node.js, and GraphQL – the powerful but sillily-named MERNG stack. (6 hour YouTube course): https://www.freecodecamp.org/news/learn-how-to-use-react-and-graphql-to-make-a-full-stack-social-network/
 
 2. I wrote this guide on how to opt-out of "people finder" search engines that stockpile your information and sell it without your permission. If you can make time to go through this tutorial, it should help you reduce your lifetime risk of getting stalked, having your identity stolen, or getting discriminated against by nosy employers. (20 minute read): https://www.freecodecamp.org/news/white-pages-removal-remove-information-spokeo-peoplefinder-whitepages-opt-out/
@@ -121,8 +119,6 @@ Here are this week's five links that are worth your time:
 4. Learn the basics of Data Science with this hands-on course. You'll learn important concepts like Linear Regression, Classification, Resampling and Regularization, Decision trees, SVM, and Unsupervised Learning. (2 hour YouTube course): https://www.freecodecamp.org/news/hands-on-data-science-course/
 
 5. Tech talks are a fun way to expand your conceptual knowledge of the field. freeCodeCamp has partnered with dozens of big programming conferences to bring you tech talks from developers around the world. You can learn at your convenience on our new freeCodeCamp Talks channel, and we publish new talks five days a week. (browsable list): https://www.freecodecamp.org/news/watch-tech-talks-whenever-you-want-from-conferences-around-the-world/
-
-Here are this week's five links that are worth your time:
 
 1. This free crash course will teach you powerful Object Oriented Programming concepts like Encapsulation, Abstraction, Inheritance, and Polymorphism. If you have a little experience with a programming language like JavaScript or Python, you should be able to learn quite a bit from this. (30 minute video course): https://www.freecodecamp.org/news/object-oriented-programming-crash-course/
 
