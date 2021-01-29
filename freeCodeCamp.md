@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. Python VS JavaScript – what are the key differences? Estefania dives deep into both languages to explore how they handle loops, conditional logic, data types, input/output, and more. These are the two biggest language ecosystems, and they're rapidly shaping the software development as a whole. (20 minute read): https://www.freecodecamp.org/news/python-vs-javascript-what-are-the-key-differences-between-the-two-popular-programming-languages/
+
+2. The C language – and its close cousin C++ – are great for game development and other computationally intensive programming tasks. This free full-length course will show you how to code advanced data structures "close to the metal" right in C. (10 hour YouTube course): https://www.freecodecamp.org/news/understand-data-structures-in-c-and-cpp/
+
+3. A developer and hiring manager shares what she looks for when reviewing job applicants' résumés. (7 minute read): https://www.freecodecamp.org/news/how-to-get-your-first-dev-job/
+
+4. How hex code colors work – and how you can choose the right colors for your designs without the need for a color picker tool. (8 minute read): https://www.freecodecamp.org/news/how-hex-code-colors-work-how-to-choose-colors-without-a-color-picker/
+
+5. When I started learning to code back in 2012, podcasts were a key part of my journey. Here are 14 developer podcasts that have taught me the most about tools, concepts, and an engineering mindset. You can listen and learn while you commute, exercise, or just relax. (10 minute read): https://www.freecodecamp.org/news/best-tech-podcasts-for-software-developers/
+
 1. This freelancing guide will help you figure out what kind of work you want to do, then find paying clients for that work. It will also give you tips on building your portfolio, marketing your services, and using data to fine-tune your approach. (12 minute read): https://www.freecodecamp.org/news/how-to-get-your-first-freelancing-client-project/
 
 2. Build your own shopping cart with React and TypeScript. In this course, you'll learn how to use Material UI, Styled Components, and React-Query hooks to fetch data from an API. (1 hour YouTube course): https://www.freecodecamp.org/news/build-a-shopping-cart-with-react-and-typescript/
