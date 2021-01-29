@@ -130,3 +130,84 @@
 
 5. Hundreds of universities around the world have made programming and computer science courses openly available on the web. Here 700 of these courses that you might consider starting this October. (browsable list): https://www.freecodecamp.org/news/free-online-programming-cs-courses/
 
+1. This 2-hour Visual Studio Code course will show you how to use the open source VS Code editor like a pro. You'll learn how to set up your own local developer environment. You'll also learn how to use plugins to turbocharge your coding sessions. (2 hour video course): https://www.freecodecamp.org/news/learn-visual-studio-code-to-increase-productivity/
+
+2. And if you really want to dive deep into VS Code, read this definitive VS Code snippet guide for beginners. (20 minute read): https://www.freecodecamp.org/news/definitive-guide-to-snippets-visual-studio-code/
+
+3. Two weeks ago I shared a course on how to design websites using the wireframe technique. Now I'm excited to bring you a follow-up UI design course: how to turn your wireframes into interactive prototypes. (40 minute video course): https://www.freecodecamp.org/news/designing-a-website-ui-with-prototyping/
+
+4. This NumPy crash course will show you how to build n-dimensional arrays in Python. NumPy is essential for many day-to-day data science and machine learning tasks. (10 minute read): https://www.freecodecamp.org/news/numpy-crash-course-build-powerful-n-d-arrays-with-numpy/
+
+5. My friend crunched the numbers. Here are the 200 best free online university courses of all time, according to a massive dataset of thousands of student reviews. (browsable list): https://www.freecodecamp.org/news/best-online-courses/
+
+1. Learn key computer network engineering concepts from an industry veteran. This free course is also a great primer for network and security certifications like the CompTIA and the CCNA. (9 hour video course): https://www.freecodecamp.org/news/free-computer-networking-course/
+
+2. freeCodeCamp just published the next university math course in our series on Math for Programmers. This Calculus 2 course is taught by University of North Carolina-Chapel Hill professor Dr. Linda Green. (7 hour video course): https://www.freecodecamp.org/news/learn-calculus-2-in-this-free-7-hour-course/
+
+3. If you are new to Python, here's how to write your first Python app right on your computer, and run it from your computer's command line. (5 minute read): https://www.freecodecamp.org/news/hello-world-programming-tutorial-for-python/
+
+4. If you are more advanced with Python, here's how to build your own Neural Network using PyTorch. This tutorial will show you how to use a powerful Python library to do some basic Machine Learning. (15 minute read): https://www.freecodecamp.org/news/how-to-build-a-neural-network-with-pytorch/
+
+5. What is Data Analytics? This plain-English tutorial will give you a 30,000-foot view of the field and introduce you to several key Data Analysis concepts. (12 minute read): https://www.freecodecamp.org/news/a-30-000-foot-introduction-to-data-analytics-and-its-foundational-components/
+
+1. freeCodeCamp just published a free Intro to Data Structures course that covers Linked Lists, Dictionaries, Heaps, Trees, Tries, Graphs and lots of other computer science concepts. (3 hour video course): https://www.freecodecamp.org/news/learn-all-about-data-structures-used-in-computer-science/
+
+2. We also published a new Unreal Engine GameDev course. You'll use the Blueprints visual scripting system to build a 2D Snake game. We include all the assets, as well as a boilerplate codebase. (3 hour video course): https://www.freecodecamp.org/news/unreal-engine-course-create-a-2d-snake-game/
+
+3. A senior software engineer looks back on the 9 habits he wishes he had as a junior developer. (15 minute read): https://www.freecodecamp.org/news/good-habits-for-junior-developers/
+
+4. What is TLS? The modern web relies on Transport Layer Security Encryption. And Victoria explains how it works in plain English. (7 minute read): https://www.freecodecamp.org/news/what-is-tls-transport-layer-security-encryption-explained-in-plain-english/
+
+5. How to host a static website or mobile app in the cloud with AWS Amplify. Marcia walks you through the four big steps. (10 minute read): https://www.freecodecamp.org/news/how-to-host-a-static-site-in-the-cloud-in-4-steps/
+
+1. Learn a powerful User Experience Design tool called Wireframing to plan out your websites using nothing more than a pencil and a sheet of paper. This can help you think through a project before you type the first line of code. (6 minute read + 30 minute video course): https://www.freecodecamp.org/news/what-is-a-wireframe-ux-design-tutorial-website/
+
+2. We just shipped our latest cloud engineering course. This free course will help you pass the AWS SysOps Administrator Associate Exam and earn an intermediate Amazon cloud certification. freeCodeCamp now has 4 full-length courses on AWS, along with some Azure and Oracle courses as well. (14 hour video course): https://www.freecodecamp.org/news/aws-sysops-adminstrator-associate-certification-exam-course/
+
+3. How HTTP works and why it's important, explained in plain English. This key protocol powers much of the World Wide Web. And this tutorial will explain how it all works. (7 minute read): https://www.freecodecamp.org/news/how-the-internet-works/
+
+4. One of the most important database concepts is table joins. And this SQL tutorial will walk you through many join variations, with examples. You'll learn the Cross Join, Full Outer Join, Inner Join, and more. (22 minute read): https://www.freecodecamp.org/news/sql-joins-tutorial/
+
+5. Some of the world's best universities are making their coursework available for free on the web. And boy oh boy do we have a list for you. Here are 700 Programming and Computer Science courses you can take starting this September. (browsable list): https://www.freecodecamp.org/news/free-online-programming-cs-courses/
+
+1. Learn intermediate Python skills with this new course freeCodeCamp just published today. You'll learn threading, multiprocessing, context managers, generators, and more. This is a great second course if you've already learned some basic Python. And if you haven't yet, we have plenty of courses on basic Python, too. (6 hour video course): https://www.freecodecamp.org/news/intermediate-python-course/
+
+2. Learn to code by playing video games. Yes – that is possible. And not just kids' games. How about a murder mystery game, or a game where you scavenge derelict space vessels for parts. I compiled this list of my all-time favorite coding games. Most of them are playable right in your browser. (8 minute read): https://www.freecodecamp.org/news/best-coding-games-online-adults-learn-to-code/
+
+3. Dr. Linda Green teaches Calculus at the University of North Carolina. And in this 12-hour course, she'll teach you Limits, Derivatives, and even the Squeeze Theorem. Grab your graphing paper and get ready for a mind-expanding ride. (12 hour video course): https://www.freecodecamp.org/news/learn-college-calculus-in-free-course/
+
+4. Milecia has programmed self-driving car prototypes, and has a lot of other software engineering and hardware experience, too. In this article, she'll teach you some of the core Machine Learning concepts that developers use in the field. (20 minute read): https://www.freecodecamp.org/news/machine-learning-basics-for-developers/
+
+5. Build your own API in the cloud. In this hands-on tutorial, Sam will show you how to use TypeScript and AWS to build your own city data API – complete with translation into 55 world languages. (15 minute read): https://www.freecodecamp.org/news/build-an-api-with-typescript-and-aws/
+
+1. If you're new to Python, here's a good project to get started. This course will walk you through how to build your own text-based adventure game. (1 hour watch): https://www.freecodecamp.org/news/your-first-python-project/
+
+2. How Jesse went from 0 to 70,000 YouTube subscribers in just 1 year. In this case study, Jesse also shares how much money he has made, and tips he learned along the way. (20 minute read): https://www.freecodecamp.org/news/how-to-grow-your-youtube-channel/
+
+3. The Kubernetes Handbook. If you sit down and read this from cover to cover, you'll learn all about containers, orchestration, and other key DevOps concepts. Tons of companies use Kubernetes in the cloud and in their data centers, so there are lots of jobs in this area. (90 minute read): https://www.freecodecamp.org/news/the-kubernetes-handbook/
+
+4. The ultimate guide to SQL operators. In this intermediate SQL guide, you'll learn how to query databases using Bitwise, Comparison, Arithmetic, and Logical Operators. (22 minute read): https://www.freecodecamp.org/news/sql-operators-tutorial/
+
+5. Universities around the world just launched 900 free online courses that you can take from the safety of your own home. Use your downtime to pick up some new skills – straight from world-class professors. (Browsable list): https://www.freecodecamp.org/news/new-online-courses/
+
+1. A Brief History of Responsive Web Design. You'll learn about the design breakthroughs that have helped developers build websites that work equally well on desktop, mobile, and tablet. (10 minute read): https://www.freecodecamp.org/news/history-of-responsive-web-design/
+
+2. Learn networking in Python by building 4 projects. You'll build your own port scanner, chat room, and email client. You'll also learn some Python penetration testing techniques. (1 hour video course): https://www.freecodecamp.org/news/python-networking-course/
+
+3. Machine Learning For Managers. You don't have to have a Ph.D. to understand concepts like Supervised VS Unsupervised learning. Or to know techniques like  Classification, Clustering, and Regression. This article will give you a good non-technical introduction to all of this. (10 minute read): https://www.freecodecamp.org/news/machine-learning-for-managers-what-you-need-to-know/
+
+4. What is Python Used For? Here are 10 of the most common ways developers use the Python programming language to get things done. (20 minute read): https://www.freecodecamp.org/news/what-is-python-used-for-10-coding-uses-for-the-python-programming-language/
+
+5. Pointers in C Explained. This data structure may not be as hard to understand as you might think it is. If you've got half an hour to spare, get ready to learn some memory-level computing concepts. (30 minute read): https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think/
+
+1. How to Write a Developer Résumé Hiring Managers Will Actually Read. Practical tips from a cybersecurity engineer who is a hiring manager herself. (10 minute read): https://www.freecodecamp.org/news/how-to-write-a-resume-that-works/
+
+2. Brush up on your math with this free 5-hour freeCodeCamp Pre-Calculus course. Dr. Linda Green covers most of the math you'll need to tackle Calculus which – spoiler alert – we are going to teach in future courses as well. You don't need to know Calculus to become a developer, but it can help you work on more advanced projects. (5 hour video course): https://www.freecodecamp.org/news/precalculus-learn-college-math-prerequisites-with-this-free-5-hour-course/
+
+3. The Self-Taught Developer's Guide to Learning How to Code (10 minute read): https://www.freecodecamp.org/news/the-self-taught-developers-guide-to-coding/
+
+4. How to Switch from jQuery to Vanilla JavaScript By Using Bootstrap 5 (7 minute read): https://www.freecodecamp.org/news/bootstrap-5-vanilla-js-tutorial/
+
+5. Here are 700 Free Online Programming and Computer Science Courses You Can Start This August (browsable list): https://www.freecodecamp.org/news/free-online-programming-cs-courses/
+
+** july 2020 starts here
