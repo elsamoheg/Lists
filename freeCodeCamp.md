@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. The Docker Handbook. This full-length Docker book is rich with code examples. It will teach you all about containerization, custom Docker images and online registries, and how to work with multiple containers using Docker Compose. (free full-length book you can read in your browser): https://www.freecodecamp.org/news/the-docker-handbook/
+
+2. Learn Object-Oriented Programming in C++. Saldina is an experienced C++ developer, and she'll teach you about access modifiers, constructors, encapsulation, abstraction, inheritance, polymorphism, and more. (90 minute YouTube course): https://www.freecodecamp.org/news/learn-object-oriented-programming-oop-in-c-full-video-course/
+
+3. What Jessica learned from building her first solo web development project. (8 minute read): https://www.freecodecamp.org/news/what-i-learned-from-building-my-first-solo-project/
+
+4. What is a Convolutional Neural Network? Milecia has coded self-driving cars and used machine learning in the field. And in this beginner's guide to Deep Learning, she explains key concepts in a clear, easy-to-understand way. (9 minute read): https://www.freecodecamp.org/news/convolutional-neural-network-tutorial-for-beginners/
+
+5. freeCodeCamp is building a Data Science curriculum that teaches advanced mathematics and machine learning. You'll learn Calculus, Statistics, and Linear Algebra using Python and Jupyter Notebooks – right in your browser. We've been planning this for months. Our fundraiser has already raised $20K toward our goal of hiring some additional math and computer science teachers to help design these courses. Read all about this and watch my 28-minute demo video: https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/
+
 1. Python VS JavaScript – what are the key differences? Estefania dives deep into both languages to explore how they handle loops, conditional logic, data types, input/output, and more. These are the two biggest language ecosystems, and they're rapidly shaping the software development as a whole. (20 minute read): https://www.freecodecamp.org/news/python-vs-javascript-what-are-the-key-differences-between-the-two-popular-programming-languages/
 
 2. The C language – and its close cousin C++ – are great for game development and other computationally intensive programming tasks. This free full-length course will show you how to code advanced data structures "close to the metal" right in C. (10 hour YouTube course): https://www.freecodecamp.org/news/understand-data-structures-in-c-and-cpp/
@@ -220,4 +230,95 @@
 
 5. Here are 700 Free Online Programming and Computer Science Courses You Can Start This August (browsable list): https://www.freecodecamp.org/news/free-online-programming-cs-courses/
 
-** july 2020 starts here
+1. This Deep Learning Crash Course will teach you all about Neural Networks, Activation Functions, Supervised Learning, Reinforcement Learning, and other key concepts and terms. (90 minute video course): https://www.freecodecamp.org/news/deep-learning-crash-course-learn-the-key-concepts-and-terms/
+
+2. How to build your own online store in just one day using AWS, React, and Stripe. You'll design the architecture, add the plugins, and even create some serverless functions. (1 hour video course): https://www.freecodecamp.org/news/how-to-make-a-store-in-one-day-aws-react-stripe/
+
+3. How to convert your simple HTML websites into a blazing fast Node.js web apps. This step-by-step guide will help you design a web server and deploy it to the cloud. (16 minute read): https://www.freecodecamp.org/news/develop-deploy-first-fullstack-web-app/
+
+4. Concise code isn't always clean code. Here's how to avoid common code readability pitfalls. (7 minute read): https://www.freecodecamp.org/news/concise-code-isnt-always-clean-code/
+
+5. If you want to automate parts of your day-to-day work, one tool is Natural Language Processing. This primer will show you how to use NLP through Google's popular BERT library. (11 minute read): https://www.freecodecamp.org/news/google-bert-nlp-machine-learning-tutorial/
+
+1. Brush up on your math skills with this free College Algebra course. Dr. Linda Green covers most of the algebra you'd learn as a US university student. It should come in handy when you're coding algorithms. (7 hour video course): https://www.freecodecamp.org/news/learn-algebra-to-improve-your-programming-skills/
+
+2. How to become an outstanding junior developer: a handbook to help you succeed in your first developer job. (20 minute read): https://www.freecodecamp.org/news/how-to-become-an-astounding-junior-developer/
+
+3. How to automate your life and everyday tasks using the Zapier no-code platform and its many off-the-shelf API tools. (10 minute read): https://www.freecodecamp.org/news/how-to-automate-your-life-and-everyday-tasks-with-zapier/
+
+4. TypeScript types explained. This mental model will help you think in terms of types. (35 minute read): https://www.freecodecamp.org/news/a-mental-model-to-think-in-typescript-2/
+
+5. How to build your own Linux dotfiles manager from scratch (10 minute read): https://www.freecodecamp.org/news/build-your-own-dotfiles-manager-from-scratch/
+
+1. Learn React and TypeScript by building your own quiz app. You'll learn the popular create-react-app tool, design your own styled components, and use TypeScript to integrate with a quiz API. (80 minute video course): https://www.freecodecamp.org/news/how-to-build-a-quiz-app-using-react-and-typescript/
+
+2. How to set up your own VPN server at home for free using Linux and WireGuard. This is a great way to boost your own privacy and security without needing to share your data with a paid VPN service. (5 minute read): https://www.freecodecamp.org/news/how-to-set-up-a-vpn-server-at-home/
+
+3. A crash-course in Responsive Web Design. You'll learn techniques for making your web apps look good on phones, tablets, and even big screen TVs. (10 minute read): https://www.freecodecamp.org/news/responsive-web-design-how-to-make-a-website-look-good-on-phones-and-tablets/
+
+4. The Docker Handbook. This will give you a strong foundation in one of the most important DevOps tools out there – one that freeCodeCamp.org itself uses extensively. (45 minute read): https://www.freecodecamp.org/news/the-docker-handbook/
+
+5. How to go from being a junior developer to becoming a mid-level or senior developer. Tips from a dev who just significantly increased their income and job title. (15 minute read): https://www.freecodecamp.org/news/how-to-go-from-junior-developer-to-mid-level-developer/
+
+1. Our 4 new Python certifications just went live on freeCodeCamp. I recommend you read my big update on Version 7.0 of our curriculum first. I talk about these new certifications, and some other helpful improvements. (5 minute read): https://www.freecodecamp.org/news/python-curriculum-is-live/
+
+2. This free course will show you how to build your own 2.5-dimensional platformer game using the Unreal Engine. (3 hour video course): https://www.freecodecamp.org/news/create-a-2-5d-platformer-game-with-unreal-engine/
+
+3. What is a Correlation Coefficient? We explain this important statistics concept – the r value – using lots of diagrams and color-coded equations. (12 minute read): https://www.freecodecamp.org/news/what-is-a-correlation-coefficient-r-value-in-statistics-explains/
+
+4. Here are 23 alternative coding career paths that you can grow into as a software developer (16 minute read): https://www.freecodecamp.org/news/alternative-career-paths/
+
+5. The AWS Cloud Cheatsheet: 5 things you'll want to learn first when getting started with Amazon Web Services (7 minute read): https://www.freecodecamp.org/news/top-5-things-to-learn-first-when-getting-started-with-aws/
+
+1. Tips from a developer who just did 60 coding interviews in a single month. And yes, he got multiple job offers. (15 minute read): https://www.freecodecamp.org/news/what-i-learned-from-doing-60-technical-interviews-in-30-days/
+
+2. Learn Deno, the new JavaScript runtime from the inventor of Node.js. This free full-length course will also teach you basic TypeScript, packages, and how to build your own survey app. (6 hour video course): https://www.freecodecamp.org/news/learn-deno-a-node-js-alternative/
+
+3. What is a Deep Learning Neural Network? Here's what you need to know, explained in plain English. (15 minute read): https://www.freecodecamp.org/news/deep-learning-neural-networks-explained-in-plain-english/
+
+4. The SaaS Handbook – how to build your first Software-as-a-Service product step-by-step. (1 hour read): https://www.freecodecamp.org/news/how-to-build-your-first-saas/
+
+5. Here are 700 free online Programming and Computer Science courses you can start this July (browsable list): https://www.freecodecamp.org/news/free-online-programming-cs-courses/
+
+1. This course will teach you how to use Keras, a popular Python library for deep learning. You'll build and train a neural network, then deploy it to the web using Flask and TensorFlow.js. (3 hour watch): https://www.freecodecamp.org/news/keras-video-course-python-deep-learning/
+
+2. And this course will teach you Scikit-Learn, another powerful Python Machine Learning library. You'll learn Linear Regression, Logistic Regression, K-Means Clustering, and more. And you'll build your own app that can recognize handwritten digits. (3 hour watch): https://www.freecodecamp.org/news/machine-learning-with-scikit-learn-full-course/
+
+3. How to pass Google's TensorFlow Developer certificate exam, explained by a developer who just passed it. (15 minute read): https://www.freecodecamp.org/news/how-i-passed-the-certified-tensorflow-developer-exam/
+
+4. How to code eight essential graph algorithms in JavaScript (20 minute read): https://www.freecodecamp.org/news/8-essential-graph-algorithms-in-javascript/
+
+5. And finally, learn some spicy SQL with these five easy recipes. “I like to think of WHERE, JOIN, COUNT, and GROUP_CONCAT as the salt, fat, acid, and heat of database cooking.” (7 minute read): https://www.freecodecamp.org/news/sql-recipes/
+
+1. Here are the 9 most commonly used Machine Learning algorithms, all explained in plain English. This article will walk you through Random Forests, K-Nearest Neighbors, Linear Regression, and other approaches in a beginner-friendly way. (18 minute read): https://www.freecodecamp.org/news/a-no-code-intro-to-the-9-most-important-machine-learning-algorithms-today/
+
+2. If you want to get cloud-certified, here's a free Azure cloud certification course. It will teach you the concepts you need to know to pass the AZ-900 exam. (3 hour watch): https://www.freecodecamp.org/news/azure-fundamentals-course-az900/
+
+3. Flutter is a powerful new framework from Google that lets you build apps for iPhone, Android, the web, and PCs – all at the same time with the same codebase. This course will teach you Flutter fundamentals. (3 hour watch): https://www.freecodecamp.org/news/flutter-app-course-mobile-web-desktop/
+
+4. DevOps is, statistically speaking, the highest-paid non-managerial developer field you can go into. And this free course will teach you some of the Linux, networking, and other concepts you need to get started learning DevOps. It's not an entry level career, but if you already have some basic programming skills, this will get you moving in the right direction. (3 hour watch): https://www.freecodecamp.org/news/devops-prerequisites-course/
+
+5. How to create a professional chat API using Node.js and web sockets. This comprehensive tutorial will help you build your own API step-by-step and give you lots of coding practice. (35 minute read): https://www.freecodecamp.org/news/create-a-professional-node-express/
+
+1. This free course will help you improve your JavaScript skills by building 15 bite-sized projects (8 hour watch): https://www.freecodecamp.org/news/hone-your-javascript-skills-by-building-these-15-projects/
+
+2. What is a Primary Key? Learn this important database concept, and how to use it in SQL. (5 minute read): https://www.freecodecamp.org/news/primary-key-sql-tutorial-how-to-define-a-primary-key-in-a-database/
+
+3. Here are 5 Git commands you should know, with code examples (5 minute read): https://www.freecodecamp.org/news/5-git-commands-you-should-know-with-code-examples/
+
+4. License To Pentest: an Ethical Hacking course for beginners (9 hour watch): https://www.freecodecamp.org/news/license-to-pentest-ethical-hacking-course-for-beginners/
+
+5. How Johan Rin earned AWS certifications, got a job as a software architect, and became a freeCodeCamp author - all while social distancing during the pandemic (6 minute read): https://www.freecodecamp.org/news/how-i-got-awscertified-and-got-a-job-during-the-pandemic/
+
+1. This Python for Data Science course for beginners covers basic Python, Pandas, NumPy, Matplotlib, and even teaches you some problem solving and pseudocode planning skills. (12 hour watch): https://www.freecodecamp.org/news/python-data-science-course-matplotlib-pandas-numpy/
+
+2. How to implement a Linked List in JavaScript – a quick introduction to this iconic data structure, with lots of code examples (5 minute read): https://www.freecodecamp.org/news/implementing-a-linked-list-in-javascript/
+
+3. How to write code right inside an Excel spreadsheet using Visual Basic (11 minute read): https://www.freecodecamp.org/news/excel-vba-tutorial/
+
+4. How to Make Your Own VS Code Extension (7 minute read): https://www.freecodecamp.org/news/making-vscode-extension/
+
+5. Here are 680 free online programming and computer science courses you can start this June (browsable list): https://www.freecodecamp.org/news/free-online-programming-cs-courses/
+
+
+** May 2020 starts here
