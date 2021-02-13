@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. Learn User Interface and User Experience Design in this hands-on web development course. You'll build a wireframe, convert it into a design in Figma, and ultimately code a working prototype. (90 minute YouTube course + design files): https://www.freecodecamp.org/news/ui-ux-design-tutorial-from-zero-to-hero-with-wireframe-prototype-figma/
+
+2. How one grad student went from weekend hackathons to CTO of a 20-person startup in just 3 years. Yacine's story is a wild ride, and is jam-packed with insights about software and business. (1 hour read): https://www.freecodecamp.org/news/from-hackathon-to-cto-in-3-years/
+
+3. The Model-View-Controller architecture pattern powers most modern websites. Here's how it works, explained in plain English. (5 minute read): https://www.freecodecamp.org/news/model-view-architecture/
+
+4. What is an API? How do APIs work? This API cheat sheet will answer these questions. It will also show you how to choose the right testing tools to keep your APIs fast and responsive. (5 minute read): https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it/
+
+5. Why you should learn SQL – even if you're not a developer. (7 minute read): https://www.freecodecamp.org/news/why-learn-sql/
+
 1. The Docker Handbook. This full-length Docker book is rich with code examples. It will teach you all about containerization, custom Docker images and online registries, and how to work with multiple containers using Docker Compose. (free full-length book you can read in your browser): https://www.freecodecamp.org/news/the-docker-handbook/
 
 2. Learn Object-Oriented Programming in C++. Saldina is an experienced C++ developer, and she'll teach you about access modifiers, constructors, encapsulation, abstraction, inheritance, polymorphism, and more. (90 minute YouTube course): https://www.freecodecamp.org/news/learn-object-oriented-programming-oop-in-c-full-video-course/
@@ -320,5 +330,206 @@
 
 5. Here are 680 free online programming and computer science courses you can start this June (browsable list): https://www.freecodecamp.org/news/free-online-programming-cs-courses/
 
+1. My analysis of the results from Stack Overflow's survey of 65,000 software developers around the world. I explore their salaries, educational backgrounds, and their favorite programming languages. (10 minute read): https://www.freecodecamp.org/news/stack-overflow-developer-survey-2020-programming-language-framework-salary-data/
 
-** May 2020 starts here
+2. Learn how to build your own Android App. This free course for beginners covers basic Java, Material Design, RecyclerView, data persistence, and more. (15 hour course): https://www.freecodecamp.org/news/learn-to-develop-and-android-app-no-experience-required/
+
+3. A self-taught developer shares 5 mistakes he made during his coding journey, so you can avoid them (13 minute read): https://www.freecodecamp.org/news/lessons-learned-from-my-journey-as-a-self-taught-developer/
+
+4. Here are four Design Patterns you should know for web development: Observer, Singleton, Strategy, and Decorator (12 minute read): https://www.freecodecamp.org/news/4-design-patterns-to-use-in-web-development/
+
+5. How to Build your own Pokémon Pokédex app using HTML, CSS, and TypeScript, with tons of code examples (10 minute read): https://www.freecodecamp.org/news/a-practical-guide-to-typescript-how-to-build-a-pokedex-app-using-html-css-and-typescript/
+
+1. Learn some JavaScript by building your own playable Tetris game. This free course will teach you a ton of JavaScript methods and DOM manipulation approaches, along with some basic GameDev concepts. (90 minute watch): https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/
+
+2. How to use Deliberate Practice to learn programming more efficiently (10 minute read): https://www.freecodecamp.org/news/how-to-use-deliberate-practice-to-learn-programming-fast/
+
+3. What it’s really like to cope with endless distractions while working from home. How a family of working parents with two kids stay productive in their 500-square-foot apartment. (5 minute read): https://www.freecodecamp.org/news/coding-with-distractions/
+
+4. How to get started with React — a modern project-based guide for beginners. This step-by-step tutorial also includes React Hooks. (26 minute read): https://www.freecodecamp.org/news/getting-started-with-react-a-modern-project-based-guide-for-beginners-including-hooks-2/
+
+5. How to create an optical character reader using Angular and Azure Computer Vision (13 minute read): https://www.freecodecamp.org/news/how-to-create-an-optical-character-reader-using-angular-and-azure-computer-vision/
+
+1. What is Agile software development? Here are the basic principles. (7 minute read): https://www.freecodecamp.org/news/what-is-agile-and-how-youcan-become-an-epic-storyteller/
+
+2. How to write freelance web development proposals that will win over clients. And this includes a downloadable template, too. (7 minute read): https://www.freecodecamp.org/news/free-web-design-proposal-template/
+
+3. What is Deno – other than an anagram of the word "Node"? It's a new security-focused TypeScript runtime by the same developer who created Node.js. And freeCodeCamp just published an entire Deno Handbook, with tutorials and code examples. (20 minute read): https://www.freecodecamp.org/news/the-deno-handbook/
+
+4. This free course will show you how to use SQLite databases with Python (90 minute watch): https://www.freecodecamp.org/news/using-sqlite-databases-with-python/
+
+5. You may have heard that there are a ton of free online university courses you can take while staying at home during the coronavirus pandemic. But did you know that 115 of them also offer free certificates of completion? Here's the full list. (Browsable list): https://www.freecodecamp.org/news/coronavirus-coursera-free-certificate/
+
+1. What is a Proxy Server? This powerful security tool explained in plain English. (12 minute read): https://www.freecodecamp.org/news/what-is-a-proxy-server-in-english-please/
+
+2. Learn how to use the Python PyTorch library for machine learning, using this free in-depth course. (10 hour watch): https://www.freecodecamp.org/news/pytorch-full-course/
+
+3. Johan just passed the AWS Certified Developer Associate Exam. He shows you how you can use your lockdown time to earn a professional cloud certification. (6 minute read) https://www.freecodecamp.org/news/how-i-passed-the-aws-certified-developer-associate-exam/
+
+4. Vim is one of the simplest and most powerful code editors out there. It comes pre-installed on Mac and Linux, and you can easily install it on Windows. Here are some tips for how to learn it and use it to write code faster. (5 minute read): https://www.freecodecamp.org/news/7-vim-tips-that-changed-my-life/
+
+5. How to use pure CSS to create a beautiful loading animation for your app. (9 minute read): https://www.freecodecamp.org/news/how-to-use-css-to-create-a-beautiful-loading-animation-for-your-app/
+
+1. What exactly is computer programming? Phoebe – a developer from the UK – explains the art of software development using simple analogies. (40 minute read): https://www.freecodecamp.org/news/what-is-computer-programming-defining-software-development/
+
+2. freeCodeCamp's May 2020 Summit. We're hosting a 1-hour live stream on Friday, May 1st at 10 a.m. Eastern time. We'll demo a lot of new tools and courses we've been working on, including our new Python certifications. You can watch live (or the on-demand video after it ends) here: https://www.freecodecamp.org/news/may-2020-summit/
+
+3. How to build a simple Pokémon web app using React Hooks and the Context API (17 minute read): https://www.freecodecamp.org/news/building-a-simple-pokemon-web-app-with-react-hooks-and-context-api/
+
+4. A guide to understanding formal software engineering requirements that you will encounter as a developer working on large-scale projects. (14 minute read): https://www.freecodecamp.org/news/why-understanding-software-requirements-matter-to-you-as-a-software-engineer/
+
+5. Here are 650 free online programming and computer science courses you can start this May. (Browsable list): https://www.freecodecamp.org/news/free-online-programming-cs-courses/
+
+1. Learn the basics of programming and computer science with this beginner-friendly free course. You'll learn concepts like variables, functions, data structures, recursion, and more. (2 hour watch): https://www.freecodecamp.org/news/introduction-to-computer-programming-and-computer-science-course/
+
+2. How Braedon went from working in sales to working as a software developer. He looks back on the 16 months he spent learning to code at home after work, and the first 2 years in his new job as a professional web developer. (10 minute read): https://www.freecodecamp.org/news/how-i-went-from-sales-to-frontend-developer-in-16-months/
+
+3. Permutation and Combination are two math concepts that are really important for programming. And you can learn how to use both of these without much pre-existing math knowledge. Here's how. (8 minute read): https://www.freecodecamp.org/news/permutation-and-combination-the-difference-explained-with-formula-examples/
+
+4. Learn how to create your own WordPress theme from scratch. This course includes a full codebase, along with some sleek UI designs. (3 hour watch): https://www.freecodecamp.org/news/learn-how-to-create-your-own-wordpress-theme-from-scratch/
+
+5. How to build an auto-updating Excel spreadsheet with stock market data using Python, AWS, and the API for the IEX stock exchange. (22 minute read): https://www.freecodecamp.org/news/auto-updating-excel-python-aws/
+
+1. Learn Data Analysis with Python. This free course covers SQL, NumPy, Pandas, Matplotlib, and other tools for visualizing data and creating reports. We also include Jupyter Notebooks so you can run the code yourself, along with plenty of exercises to reinforce your understanding of the concepts. (4 hour course): https://www.freecodecamp.org/news/learn-data-analysis-with-python-course/
+
+2. And if you don't know much Python yet, I've got you covered. We also published this Python Beginner's Handbook this week. (50 minute read): https://www.freecodecamp.org/news/the-python-guide-for-beginners/
+
+3. Tips for how to set your future self up for success with good coding habits (11 minute read): https://www.freecodecamp.org/news/set-future-you-up-for-success-with-good-coding-habits/
+
+4. How to style your React apps with less code using Tailwind CSS and Styled Components (5 minute read): https://www.freecodecamp.org/news/how-to-style-your-react-apps-with-less-code-using-tailwind-css-and-styled-components/
+
+5. On Tuesday we hosted an online developer conference called LockdownConf. Developers from around the world gave advice on how to learn new skills during the pandemic and find new jobs and freelancing clients. You can watch the entire conference ad-free on freeCodeCamp's YouTube channel. (4 hour watch): https://www.freecodecamp.org/news/lockdownconf-free-developer-conference/
+
+1. You may have heard the terms "Architecture" or "System Design." These come up a lot during developer job interviews. Especially at big tech companies. This in-depth guide will help prepare you for the System Design interview, by teaching you basic software architecture concepts. (40 minute read): https://www.freecodecamp.org/news/systems-design-for-interviews/
+
+2. How to create your own Coronavirus dashboard and map app using React, Gatsby, and Leaflet. You can code along with this tutorial, learn some new tools, and build your own map of the outbreak to show your family and friends. (10 minute read): https://www.freecodecamp.org/news/how-to-create-a-coronavirus-covid-19-dashboard-map-app-in-react-with-gatsby-and-leaflet/
+
+3. The next time you need to build an architecture diagram for your software project – or just a flow chart for your business – you'll know which tools to use. We showcase the best ones here. (8 minute read): https://www.freecodecamp.org/news/flow-chart-creator-and-workflow-diagram-apps/
+
+4. OWASP (The Open Web App Security Project) has an up-to-date list of the 10 most common security vulnerabilities in websites. Learn these mistakes so you don't repeat them in your own projects. (7 minute read): https://www.freecodecamp.org/news/technical-dive-into-owasp/
+
+5. Var, Let, and Const – What's the Difference? Learn the 3 main ways to declare a variable in JavaScript, and in which situations you should use them. (6 minute read): https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
+
+1. How to Stay Productive in the Age of Social Distancing (8 minute read): https://www.freecodecamp.org/news/staying-productive-in-the-age-of-social-distancing/
+
+2. How Hashing Functions Work. And What's the Most Secure Encryption Hash? MD5, SHA1, or SHA2? (4 minute read): https://www.freecodecamp.org/news/md5-vs-sha-1-vs-sha-2-which-is-the-most-secure-encryption-hash-and-how-to-check-them/
+
+3. From Mechanical Engineer to Software Developer – My Coding Rollercoaster. Milecia tells the story of how she stumbled into coding while chasing her passion for cars. (12 minute read): https://www.freecodecamp.org/news/mechanical-engineering-to-software-developer/
+
+4. How to Become a Software Engineer if You Don't Have a Computer Science Degree (8 minute read): https://www.freecodecamp.org/news/paths-to-becoming-a-software-engineer/
+
+5. Learn the PERN Stack - Postgres, Express, React, Node - by Building a Todo List App (free 90 minute video course with full example codebase): https://www.freecodecamp.org/news/learn-the-pern-stack-full-course/
+
+1. The Coronavirus Quarantine Developer Skill Handbook – my tips for how to make the most of your time and learn to code for free from home (12 minute read): https://www.freecodecamp.org/news/coronavirus-academy/
+
+2. How to outsource your online security, and stay secure without having to think so hard about it (5 minute read): https://www.freecodecamp.org/news/outsourcing-security-with-1password-authy-and-privacy-com/
+
+3. A software engineer from Romania live-streamed himself finishing all 6 freeCodeCamp certifications in a single month. It takes most people thousands of hours to accomplish this. Here's his story. (7 minute read): https://www.freecodecamp.org/news/i-completed-the-entire-freecodecamp-curriculum-in-a-month-while-recording-everything/
+
+4. How to get started with Serverless Architecture (12 minute read): https://www.freecodecamp.org/news/how-to-get-started-with-serverless-architecture/
+
+5. An Intro to Metrics Driven Development, and how data can inform the design of your apps (10 minute read): https://www.freecodecamp.org/news/metrics-driven-development/
+
+1. Developers use the expression "close to the metal" to mean lower-level coding that interacts closely with a computer's hardware. And the king of low-level programming is C. This C Beginner's Handbook will help you learn C basics in just a few hours. (35 minute read): https://www.freecodecamp.org/news/the-c-beginners-handbook/
+
+2. These quick user interface design tips that will help you dramatically improve the look of your front end projects. (7 minute read): https://www.freecodecamp.org/news/how-to-make-your-front-end-projects/
+
+3. You can build fast, secure websites at scale - all without a web server or traditional back end. This new approach is called the JAMstack, and this tutorial will show you how to use it. (4 hour watch): https://www.freecodecamp.org/news/jamstack-full-course/
+
+4. What is cached data? And what does it mean to clear a cache? This article will give you a functional understanding of how caches work and why they're so important to the modern web. (9 minute read): https://www.freecodecamp.org/news/what-is-cached-data/
+
+5. A developer uncovered 1,400 Coursera online university courses that are still completely free. (browsable list): https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/
+
+1. We just released a massive, free Python Machine Learning course focused on TensorFlow 2.0. You'll learn: core learning algorithms, deep learning with neural networks, computer vision with convolutional neural networks, natural language processing with recurrent neural networks, and reinforcement learning. It took us months to make this. I think you'll enjoy it. (7 hour watch + Jupyter Notebook modules): https://www.freecodecamp.org/news/massive-tensorflow-2-0-free-course/
+
+2. The JavaScript Beginner's Handbook - 2020 Edition. This comprehensive JavaScript reference also comes with a downloadable PDF (30 minute read): https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/
+
+3. How to avoid getting your password cracked. An information security engineer explains hashing, dictionary attacks, rainbow tables, the Birthday Problem, and more. (7 minute read): https://www.freecodecamp.org/news/an-intro-to-password-cracking/
+
+4. Multithreaded Python: slithering through an I/O bottleneck (6 minute read): https://www.freecodecamp.org/news/multithreaded-python/
+
+5. Here are 610 free online programming and computer science courses from universities around the world that you can start this March (browsable list): https://www.freecodecamp.org/news/free-online-programming-cs-courses/
+
+1. Resume tips from a developer who got job offers at Microsoft, Amazon, and Twitter (6 minute read): https://www.freecodecamp.org/news/why-your-resume-is-being-rejected/
+
+2. How one developer listens to 5+ hours of podcasts per day to stay on top of technology news, and the tools he uses to organize his podcast RSS feeds (8 minute read): https://www.freecodecamp.org/news/podcasts-are-my-new-wikipedia-the-perfect-informal-learning-resource/
+
+3. Victoria shares some command line tricks for managing your messy open source repositories (6 minute read): https://www.freecodecamp.org/news/command-line-tricks-for-managing-your-messy-open-source-repository/
+
+4. How one biology student got his first developer job and won his first hackathon: 2 wild days of research, design, and coding (27 minute read): https://www.freecodecamp.org/news/how-i-won-the-hackathon/
+
+5. How to build a Minimum Viable Product (MVP) for your project (8 minute read): https://www.freecodecamp.org/news/minimum-viable-product-between-an-idea-and-the-product/
+
+1. A developer crunched the results of 213,000 coding interview tests which were completed by job candidates from around the world. He shares the insights, and a full 39-page report of the results. (9 minute read): https://www.freecodecamp.org/news/top-2020-it-skills/
+
+2. How to build and deploy your own portfolio website. This free video course covers basic HTML, CSS, Flexbox, and Grid. (2 hour watch): https://www.freecodecamp.org/news/how-to-build-a-portfolio-website-and-deploy-to-digital-ocean/
+
+3. The much-hyped JAMstack explained in detail - and how to get started with it. (10 minute read): https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/
+
+4. Even though JavaScript is a prototype-based language - and not a class-based language - it's still possible to do Object Oriented Programming with it. Here's how. (6 minute read): https://www.freecodecamp.org/news/how-javascript-implements-oop/
+
+5. A Complete Beginner's Guide to React Router. This tutorial even includes Router Hooks. Give it a try. (10 minute read): https://www.freecodecamp.org/news/a-complete-beginners-guide-to-react-router-include-router-hooks/
+
+1. How to get your first job as a self-taught developer – tips from a freeCodeCamp graduate who got her first software engineering job last year (6 minute read): https://www.freecodecamp.org/news/how-to-get-your-first-job-in-tech/
+
+2. An experienced developer shares his favorite Chrome DevTools tips and tricks (5 minute read): https://www.freecodecamp.org/news/awesome-chrome-dev-tools-tips-and-tricks/
+
+3. How to build your own piano keyboard using plain vanilla JavaScript (10 minute read): https://www.freecodecamp.org/news/javascript-piano-keyboard
+
+4. How to build a Progressive Web App from scratch with HTML, CSS, and JavaScript. You'll build a simple coffee menu app that uses service workers and continues working even if you disconnect from the internet. (10 minute read): https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/
+
+5. Here's a no-hype explanation of what Blockchain is and how this distributed database technology works (10 minute read): https://www.freecodecamp.org/news/what-is-blockchain-and-how-does-it-work/
+
+
+1. I analyzed a new survey of 116,000 developers and hiring managers from around the world. I share some of their noteworthy findings about developer tools, higher education, and wages. (8 minute read): https://www.freecodecamp.org/news/computer-programming-skills-2020-survey-developers-hiring-managers-hackerrank/
+
+2. What is statistical significance? P Value explained in a way that non-math majors can understand and calculate it (5 minute read): https://www.freecodecamp.org/news/what-is-statistical-significance-p-value-defined-and-how-to-calculate-it/
+
+3. Adobe XD vs Sketch vs Figma vs InVision - how to pick the best design software in 2020 (6 minute read): https://www.freecodecamp.org/news/adobe-xd-vs-sketch-vs-figma-vs-invision/
+
+4. Learn how to build web apps using ASP.NET Core 3.1. Along the way, you'll use Razor to build a book list project. (3 hour video course): https://www.freecodecamp.org/news/asp-net-core-3-1-course/
+
+5. Here are 610 free online programming and computer science courses you can start this February (browsable list): https://www.freecodecamp.org/news/free-online-programming-cs-courses/
+
+1. This course will teach you User Interface Design fundamentals like whitespace, visual hierarchy, and typography (1 hour interactive course): https://www.freecodecamp.org/news/learn-ui-design-fundamentals-with-this-free-one-hour-course/
+
+2. Learn Natural Language Processing with Python and TensorFlow 2.0. You'll build an AI that can write Shakespeare. And this is a beginner-level course, meaning you don't need any prior experience with machine learning. (90 minute course): https://www.freecodecamp.org/news/learn-natural-language-processing-no-experience-required/
+
+3. How to approach your first tech job fair (5 minute read): https://www.freecodecamp.org/news/how-to-approach-your-first-tech-job-fair/
+
+4. Your React Cheatsheet for 2020 - with dozens of practical real-world code examples (16 minute read + downloadable PDF): https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/
+
+5. A data-driven analysis of all the best free online courses that universities published last year (browsable list): https://www.freecodecamp.org/news/best-online-courses-of-2019/
+
+1. The Complete Freelance Web Developer Guide. People have asked freeCodeCamp to publish a course like this for years. I am so excited to share this with you. This course features in-depth advice from a veteran freelance developer, an attorney focused on business law, and an accountant. Think of it as "your freelance developer business in a box." Enjoy. (1 hour read + 4 hour video course): https://www.freecodecamp.org/news/freelance-web-developer-guide/
+
+2. What one developer learned from reading the classic book "The Pragmatic Programmer". In short: it's old but gold. (8 minute read): https://www.freecodecamp.org/news/thought-on-the-pragmatic-programmer/
+
+3. How to replace Bash with Python as your go-to command line language (6 minute read): https://www.freecodecamp.org/news/python-for-system-administration-tutorial/
+
+4. Truthy VS Falsy values in Python: this detailed introduction will explain the hidden logic behind how Python evaluates different data structures as true or false (7 minute read): https://www.freecodecamp.org/news/truthy-and-falsy-values-in-python/
+
+5. 10 important Git commands that every developer should know (7 minute read): https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/
+
+1. In this article I break down all the different cloud-related developer roles and the professional AWS certifications you can earn for each of them. I also introduce freeCodeCamp's 2020 #AWSCertified challenge. (20 minute read): https://www.freecodecamp.org/news/awscertified-challenge-free-path-aws-cloud-certifications/
+
+2. How I stopped a credit card thief from ripping off 3,537 people – and saved our nonprofit in the process. Yes, this really happened to me last week. (12 minute read): https://www.freecodecamp.org/news/stopping-credit-card-fraud-and-saving-our-nonprofit/
+
+3. Universities around the world now offer tons of free online programming and computer science courses. Here are 620 that you can choose from to kick off your 2020 learning. (browsable list): https://www.freecodecamp.org/news/free-online-programming-cs-courses/
+
+4. How to deploy a website in just 3 minutes straight from your Google Drive. (6 minute read): https://www.freecodecamp.org/news/how-to-deploy-a-static-website-for-free-in-only-3-minutes-with-google-drive/
+
+5. How to make your first JavaScript chart using the JSCharting library - a detailed tutorial with code examples. (18 minute read): https://www.freecodecamp.org/news/how-to-make-your-first-javascript-chart/
+
+1. Everything I know about New Year's Resolutions: how to make 2020 your big breakout year as a developer (10 minute read): https://www.freecodecamp.org/news/developer-new-years-resolution-guide/
+
+2. This free course will show you how to pass the AWS Certified Solutions Architect exam and earn one of the most in-demand cloud certifications (10 hour watch): https://www.freecodecamp.org/news/pass-the-aws-certified-solutions-architect-exam-with-this-free-10-hour-course/
+
+3. How one inspired developer built 100 projects in 100 days. Given his rapid pace, some of these projects are really impressive. (5 minute read): https://www.freecodecamp.org/news/how-i-built-100-projects-in-100-days/
+
+4. How to build a complete back end system using serverless technology (24 minute read): https://www.freecodecamp.org/news/complete-back-end-system-with-serverless/
+
+5. Python dictionaries explained: a visual introduction to this super useful data structure (10 minute read): https://www.freecodecamp.org/news/python-dictionaries-detailed-visual-introduction/
+
+
+** Dec 2019 starts here
