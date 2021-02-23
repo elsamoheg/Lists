@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. freeCodeCamp just published a free 10-hour Python Data Analysis course. You can learn Pandas, Numpy, Matplotlib, and other key data science tools. This course is taught by a former Twitter engineer, IIT grad, and ACM ICPC world finalist. (10 hour YouTube course): https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas/
+
+2. How to use LinkedIn to get your first developer job – an in-depth step-by-step guide (30 minute read): https://www.freecodecamp.org/news/linkedin-handbook-get-your-first-dev-job/
+
+3. What is fuzzing? And why does Google have 30,000 servers dedicated to continuously fuzzing their own applications? Learn all about this intriguing software testing approach. (7 minute read): https://www.freecodecamp.org/news/whats-fuzzing-fuzz-testing-explained/
+
+4. Did you know that you can use spreadsheets as a database? Here's how to turn Google Sheets into your own REST API and use it to power a React app (10 minute read): https://www.freecodecamp.org/news/react-and-googlesheets/
+
+5. All of the most useful JavaScript array methods in one place, and explained with helpful examples (25 minute read): https://www.freecodecamp.org/news/complete-introduction-to-the-most-useful-javascript-array-methods/
+
 1. Learn User Interface and User Experience Design in this hands-on web development course. You'll build a wireframe, convert it into a design in Figma, and ultimately code a working prototype. (90 minute YouTube course + design files): https://www.freecodecamp.org/news/ui-ux-design-tutorial-from-zero-to-hero-with-wireframe-prototype-figma/
 
 2. How one grad student went from weekend hackathons to CTO of a 20-person startup in just 3 years. Yacine's story is a wild ride, and is jam-packed with insights about software and business. (1 hour read): https://www.freecodecamp.org/news/from-hackathon-to-cto-in-3-years/
