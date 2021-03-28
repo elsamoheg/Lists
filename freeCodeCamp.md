@@ -1,6 +1,56 @@
 ### freeCodeCamp Links
 
-1. freeCodeCamp just published a free 10-hour Python Data Analysis course. You can learn Pandas, Numpy, Matplotlib, and other key data science tools. This course is taught by a former Twitter engineer, IIT grad, and ACM ICPC world finalist. (10 hour YouTube course): https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas/
+1. One of the best ways to strengthen your developer skills is to build a lot of projects. Here are 40 free JavaScript project ideas designed specifically with web developers in mind. Each of these projects includes a course or detailed tutorial, along with an example codebase. (browsable list): https://www.freecodecamp.org/news/javascript-projects-for-beginners/
+
+2. When you combine JavaScript with HTML Canvas, you get the potential for tons of visually exciting animations. This course will teach you how to use one of the coolest of these: Pixel Effects. (2 hour YouTube course): https://www.freecodecamp.org/news/create-pixel-effects-with-javascript-and-html-canvas/
+
+3. And since you're learning a ton of JavaScript, why not learn one of its most common coding archetypes: Functional Programming. This beginner tutorial will give you a firm grasp on the basic concepts. (10 minute read): https://www.freecodecamp.org/news/functional-programming-in-javascript-for-beginners/
+
+4. What about that other major scripting language, Python? Well, here are six quick Python projects you can build in a single sitting. (1 hour YouTube course): https://www.freecodecamp.org/news/build-six-quick-python-projects/
+
+5. You may have heard the term "serverless". Technically, serverless computing does involve servers, but not your own servers. Instead, you just borrow a few cycles on a cluster of somebody else's servers. And one of the easiest ways to get started with serverless is to add a simple AWS Lambda function to your website. This tutorial will show you how to do this by creating a serverless "contact us" form. (15 minute read): https://www.freecodecamp.org/news/how-to-receive-emails-via-your-sites-contact-us-form-with-aws-ses-lambda-api-gateway/
+
+1. This course will teach you fundamental data structures like arrays and linked lists. You'll then use these data structures to build common algorithms like Merge Sort and Quicksort. (6 hour YouTube course): https://www.freecodecamp.org/news/algorithms-and-data-structures-free-treehouse-course/
+
+2. Learn how to implement your own secure sign-in for your web development projects using JavaScript, Node.js, and the Passport.js library. You'll learn about HTTP headers, cookies, public key cryptography, and JSON Web Tokens. (6 hour YouTube course): https://www.freecodecamp.org/news/learn-to-implement-user-authentication-in-node-apps-using-passport-js/
+
+3. This week I went on the Changelog, a major open source podcast. The hosts interviewed me about the history of freeCodeCamp, the community behind it, and our upcoming Data Science curriculum expansion. (1 hour listen): https://www.freecodecamp.org/news/quincy-larson-interview-changelog-podcast/
+
+4. TypeScript is a statically-typed version of JavaScript. A lot of developers prefer it because it can reduce the number of bugs in your code. By the end of this crash course, you'll understand TypeScript's key features and how to leverage them. (90 minute YouTube course): https://www.freecodecamp.org/news/learn-typescript-with-this-crash-course/
+
+5. How to get started with Git, the world's most popular version control system. You'll learn common Git commands and gain a conceptual understanding of how Git tracks changes. You'll also get to try out some Git workflows. (15 minute read): https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/
+
+1. freeCodeCamp just published a free 25-hour Database Systems course from a Cornell University database instructor. You'll learn SQL, Relational Database Design, Distributed Data Processing, NoSQL, and more. (25 hour YouTube course): https://www.freecodecamp.org/news/watch-a-cornell-university-database-course-for-free/
+
+2. We also published a full-length book that will teach you Python basics. This beginner's handbook includes hundreds of Python syntax examples. You can bookmark it and read it in your browser, or download a PDF version. (full book): https://www.freecodecamp.org/news/the-python-handbook/
+
+3. And I swear I'm not trying to overload you, but we also published a 6-hour course on how to configure and operate Linux servers. If you want to become a SysAdmin or DevOps, this should give your server skills a big boost. (6 hour YouTube course): https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/
+
+4. For some lighter reading, Jacob went way back in time to look at the first commit to the Git project's codebase. You can learn some C fundamentals by reading Linus Torvalds' original code, which now underpins the world's most widely-used version control system. (25 minute read): https://www.freecodecamp.org/news/boost-programming-skills-read-git-code/
+
+5. And since you just finished reading that Python book – you did finish reading it, didn't you? 🙂 – why not learn how to use Python's powerful Flask Web Development Framework. You can code along at home and build your own ecommerce website. (6 hour YouTube course): https://www.freecodecamp.org/news/learn-the-flask-python-web-framework-by-building-a-market-platform/
+
+1. Learn the basics of AWS. You'll get hands-on practice with cloud servers, databases, file storage, automation tools – and even Docker and serverless tools. There are no prerequisites. You just need to block out a few hours to sit down and learn. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-the-basics-of-amazon-web-services/
+
+2. How to read a research paper. This guide will introduce you to the 3 Pass Approach so you can better understand papers and better retain their findings. I wish I had read this back when I was in grad school. (15 minute read): https://www.freecodecamp.org/news/building-a-habit-of-reading-research-papers/
+
+3. Postman is a powerful tool for testing APIs. This course will teach you how to install it and use it to inspect query parameters, path variables, and other parts of an HTTP response. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-how-to-use-postman-to-test-apis/
+
+4. The story of how one university student built a web scraper with Python and used it to land his first developer job. (10 minute read): https://www.freecodecamp.org/news/how-i-used-a-side-project-to-land-a-job/
+
+5. SQL injection attacks are one of the most common ways that hackers try to gain access to a database. In this article, Megan will show you how to sanitize your website's form inputs to prevent these kinds of attacks. (10 minute read): https://www.freecodecamp.org/news/what-is-sql-injection-how-to-prevent-it/
+
+1. freeCodeCamp just published an epic 17-hour Data Visualization course. You'll learn: D3.js, SVG graphics, React, React hooks – all while building several data visualization projects. (17 hour YouTube course): https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course/
+
+2. We are translating freeCodeCamp's curriculum into 30 world languages, and both Spanish and Chinese versions are now live. If you are fortunate enough to be bilingual, I encourage you to help translate, and make these learning resources more accessible for people around the world. (5 minute read): https://www.freecodecamp.org/news/world-language-translation-effort/
+
+3. What is a file system? This computer architecture tutorial will teach you how operating systems handle files, partitions, and data storage. (40 minute read): https://www.freecodecamp.org/news/file-systems-architecture-explained/
+
+4. How to code Python apps right on your Android phone – no laptop required. You'll use Pydroid, a powerful integrated development environment, to build a Django project using an Android phone's touch screen. (12 minute read): https://www.freecodecamp.org/news/how-to-code-on-your-phone-python-pydroid-android-app-tutorial/
+
+5. My friend uncovered 1,600 Coursera university courses that you can still take for free. And he shows you step-by-step how to access them. (browsable list): https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/
+
+7. freeCodeCamp just published a free 10-hour Python Data Analysis course. You can learn Pandas, Numpy, Matplotlib, and other key data science tools. This course is taught by a former Twitter engineer, IIT grad, and ACM ICPC world finalist. (10 hour YouTube course): https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas/
 
 2. How to use LinkedIn to get your first developer job – an in-depth step-by-step guide (30 minute read): https://www.freecodecamp.org/news/linkedin-handbook-get-your-first-dev-job/
 
