@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. Computer Vision is how computers process visual cues from the physical world – everything from street signs to dance moves. This advanced Python course will teach you how to use OpenCV, a powerful computer vision tool. (6 hour YouTube course): https://www.freecodecamp.org/news/advanced-computer-vision-with-python/
+
+2. Learn about encryption algorithms and block ciphers. Megan is a developer and cybersecurity researcher. She explains these concepts with lots of friendly diagrams and examples. (20 minute read): https://www.freecodecamp.org/news/what-is-a-block-cipher/
+
+3. Jack Schofield was a prolific journalist who wrote about technology for nearly four decades. Along the way he made three big observations about computers, which his fans dubbed "Schofield's Laws." (8 minute read): https://www.freecodecamp.org/news/schofields-laws-of-computing/
+
+4. How to set up a Front End Development project locally on your computer in VS Code. You'll learn how to plug in all the latest time-saving JavaScript tools, including ESLint, Parcel, and Prettier. (30 minute read): https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/
+
+5. Over the past month, Beau built a powerful Hackintosh computer. He assembled regular PC components off the web, then used a tool called OpenCore to install the MacOS Big Sur operating system. Now he has a turbo-charged Mac computer for coding and video editing. And he documented this entire process, with detailed steps if you want to build one yourself. (1 hour YouTube course): https://www.freecodecamp.org/news/build-a-hackintosh/
+
 1. Learn game development basics by coding three games: Super Mario Bros, Legend of Zelda, and Space Invaders. Ania will show you how to add physics, collision detection, and your own custom sprites. By the end of the course, you'll have sharable links to your games. (3 hour YouTube course): https://www.freecodecamp.org/news/how-to-build-mario-zelda-and-space-invaders-with-kaboom-js/
 
 2. Responsive Web Design is a way to make websites look good on different screen sizes. This course will show you how to use CSS Media Queries – a key tool built into all major browsers – to build designs that look great on laptops, tablets, and mobile phones. (90 minute course): https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/
