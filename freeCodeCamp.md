@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. DevOps is one of the highest-paying careers in tech. And even if you aren't working as a DevOps engineer, learning DevOps will expand your developer skills. This beginner's course will introduce you to key concepts like Continuous Integration, Code Coverage, Linting, Rolling Deployments, Autoscaling, Metrics, and more. (2 hour YouTube course) https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/
+
+2. Then you can apply some of those DevOps concepts you learned and deploy one of your projects to the cloud. This step-by-step tutorial will show you how. (1 hour read): https://www.freecodecamp.org/news/how-to-deploy-your-freecodecamp-project-on-aws/
+
+3. Bioinformatics is where biology and computer science meet. This emerging field uses statistics and machine learning to analyze DNA, discover new medicines, and understand the human body. In this Python course, a biology professor and data mining expert will introduce you to the core concepts. (2 hour YouTube course): https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/
+
+4. Keyboard shortcuts are a powerful accessibility tool you can add to your websites. They make it easier for people who have motor disabilities to use your site. They also help power users like myself get things done faster than if I had to click around with a mouse. Here's how you can design keyboard shortcuts and code them using React. (12 minute read): https://www.freecodecamp.org/news/designing-keyboard-accessibility-for-complex-react-experiences/
+
+5. Prolific Linux book author and freeCodeCamp contributor David Clinton just published a course series called "Teach Yourself Data Analytics in 30 Days." This course will show you how to install Python Jupyter Notebook, find data from public APIs, and visualize datasets. (free 30-day course): https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/
+
 1. Computer Vision is how computers process visual cues from the physical world – everything from street signs to dance moves. This advanced Python course will teach you how to use OpenCV, a powerful computer vision tool. (6 hour YouTube course): https://www.freecodecamp.org/news/advanced-computer-vision-with-python/
 
 2. Learn about encryption algorithms and block ciphers. Megan is a developer and cybersecurity researcher. She explains these concepts with lots of friendly diagrams and examples. (20 minute read): https://www.freecodecamp.org/news/what-is-a-block-cipher/
