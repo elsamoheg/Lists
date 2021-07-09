@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. The CISSP is a popular cyber security certification. I did a job search on Indeed and found more than 14,000 job openings that mentioned the CISSP certification. If you want to get into security as a developer, this course will prepare you for the exam. Dr. Atef will teach you Risk Management, Security Architecture, Network Security, Identity & Access Management, SecOps, and more. (13 hour YouTube course): https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam/
+
+2. This in-depth React course will teach you all about front end development with one of the most popular JavaScript libraries. You'll learn Styled Components, React Router, State and Props, Hooks, and even some TypeScript. You'll also deploy your app to the cloud. (7 hour YouTube course): https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/
+
+3. freeCodeCamp author Dionysia wrote an entire book about the C programming language and made it freely available on our site. In addition to teaching you C coding concepts and syntax, she will also give you a broad history of this important language. (2 hour read): https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/
+
+4. And while you're learning C, you can learn how to use the powerful Binary Search algorithm. This comes up all the time in day-to-day programming work, and is a common developer job interview question as well. (90 minute YouTube course): https://www.freecodecamp.org/news/what-is-binary-search/
+
+5. The freeCodeCamp community just launched our 2021 New Coder Survey. It's anonymous and all questions are optional. We'll publish the full dataset as open data. If you started learning to code in the past 5 years, you can help the scientific community by taking this ~10 minute survey: https://www.freecodecamp.org/news/2021-new-coder-survey/
+
 1. In this Back End Development for Beginners course, Tomi will show you how to install Python, Django, PostgreSQL, and other tools. You can code along at home and build your own calculator. Then you'll build your own blog, weather app, and even your own chat room system. (10 hour YouTube course): https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/
 
 2. A design system is a set of patterns and reusable components that you can use throughout your websites and apps to create visual consistency. This course will teach you how to use Figma as a vector graphics editor and prototyping tool. You'll learn all about User Experience concepts like typography, elevation, spacing, states, and more. (8 hour YouTube course): https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/
