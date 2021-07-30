@@ -1,5 +1,17 @@
 ### freeCodeCamp Links
 
+1. Docker is an open source tool for deploying your apps to any cloud service you want. This course will teach you some Docker fundamentals. Then it will show you how to deploy apps from 12 different ecosystems – Python, JavaScript, Java, and others – to AWS, Azure, or Google Cloud. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-how-to-deploy-12-apps-to-aws-azure-google-cloud/
+
+Also, a few months back freeCodeCamp published an entire book on Docker, which you can bookmark to use as a reference. Docker is definitely worth learning, and we ourselves use it on more than 60 of freeCodeCamp's servers. (4 hour read): https://www.freecodecamp.org/news/the-docker-handbook/
+
+2. Some of the most commonly-asked developer job interview questions involve backtracking algorithms. To prepare you for these, Lynn has created this crash course on solving backtracking problems using Python. (1 hour YouTube course): https://www.freecodecamp.org/news/solve-coding-interview-backtracking-problem/
+
+3. Microsoft Excel has its own built-in programming language called Visual Basic. You can use it to automate all kinds of repetitive spreadsheet tasks. This in-depth tutorial will help you get started. (40 minute read): https://www.freecodecamp.org/news/automate-repetitive-tasks-in-excel-with-vba/
+
+4. It takes a lot of practice to get good with CSS. But these tips can speed up the process, and help you arrive at a deeper understanding of CSS styles and responsive web design. (12 minute read): https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/
+
+5. Apache Spark is an open source machine learning library. I did a quick search and found more than 4,000 job postings that mentioned this tool. It's originally written in the Scala programming language, but thankfully some developers wrote a handy Python interface for it. This course will teach you how to use PySpark to process large datasets in Python. (2 hour YouTube course): https://www.freecodecamp.org/news/use-pyspark-for-data-processing-and-machine-learning/
+
 1. Recursion is a powerful computer science concept. But it's also notoriously difficult to understand. The good news is that this course will explain recursion through a series of easy-to-grasp analogies. You'll learn about Call Stacks, the Fibonacci Sequence, Linked Lists, Trees, Graphs, Search Algorithms, and other important concepts. (2 hour YouTube course): https://www.freecodecamp.org/news/understanding-recursion-in-programming/
 
 2. Low Code tools are a convenient way for developers to build real-world applications without writing a lot of custom code. In this course, Ania will show you how to build web apps using a variety of Low Code tools. You can code along at home and by the time you're finished, you'll have 3 working apps. (3 hour YouTube course): https://www.freecodecamp.org/news/low-code-tutorial/
