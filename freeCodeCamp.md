@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. Big O Notation is a tool that developers use to understand how much time a piece of code will take to execute. Computer Scientists call this "Time Complexity." This comes up all the time in day-to-day programming, and in job interviews. As a developer, you will definitely want to understand Big O Notation well. And that's precisely what this freeCodeCamp course will help you do. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-big-o-notation/
+
+2. Google Cloud is the third largest cloud services provider – right behind AWS and Azure. If you want to get into cloud engineering or DevOps, you may want to consider taking the Google Cloud Digital Leader Certification Exam. This in-depth course will help you pass the exam. (6 hour YouTube course): https://www.freecodecamp.org/news/google-cloud-digital-leader-course/
+
+3. One of the most common ways websites crash is from Distributed Denial of Service attacks. In this tutorial, security researcher Megan Kaczanowski will show you how these DDoS attacks work, and how you can defend against them. (10 minute read): https://www.freecodecamp.org/news/protect-against-ddos-attacks/
+
+4. FastAPI is an open source Python web development framework that makes it easier to build APIs. It's relatively new, but already companies like Netflix have started using it. This crash course will teach you the basics. (1 hour YouTube course): https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/
+
+5. OpenGL is a powerful tool for creating both 2D and 3D computer graphics. This course will teach you how to use the Depth Buffer, Stencil Buffer, Frame Buffers, Cubemaps, Geometry Shaders, Anti-Aliasing, and more. (1 hour YouTube course): https://www.freecodecamp.org/news/create-complex-graphics-with-opengl/
+
 1. How does the internet actually work? This in-depth course will teach you Network Engineering concepts and show you how ISPs, backbones, and other infrastructure work. (2 hour YouTube course): https://www.freecodecamp.org/news/how-does-the-internet-work/
 
 2. HTML gives websites their basic structure – kind of like how a concrete foundation gives structure to a house. You can learn basic HTML pretty quickly, even if you don't have any past experience with coding. Long-time freeCodeCamp teacher Beau Carnes will teach you these HTML fundamentals in a fun, interactive way. (2 hour YouTube course): https://www.freecodecamp.org/news/html-crash-course/
