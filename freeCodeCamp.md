@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. These days you can code right in your browser on sites like freeCodeCamp.org. But if you have never coded on your own computer before, this course will help you install Python and a code editor so you can start programming offline. Jabrils, a self-taught game developer, will teach you basic Python data structures, algorithms, conditional logic, and more. (5 hour YouTube course): https://www.freecodecamp.org/news/programming-for-beginners-how-to-code-with-python-and-c-sharp/
+
+2. Learn how to code your own Sudoku Android app using Kotlin and the powerful Jetpack Compose UI toolkit. You'll learn clean architecture, the Java File System Storage, the Open-Closed Principle, and more. (4 hour YouTube course): https://www.freecodecamp.org/news/create-an-android-app/
+
+3. You may have heard the term "outlier" before. But what exactly does it mean? This plain-English statistics tutorial will show you how to detect outliers by calculating the Interquartile Range. (12 minute read): https://www.freecodecamp.org/news/what-is-an-outlier-definition-and-how-to-find-outliers-in-statistics/
+
+4. Learn how to code your own Discord chat bot that talks like your favorite cartoon character. You could choose Rick from Rick and Morty, The Joker from Batman, or even Peppa Pig. You'll use Python or JavaScript, along with massive character dialogue datasets. (1 hour YouTube course): https://www.freecodecamp.org/news/discord-ai-chatbot/
+
+5. Davis is a data scientist and machine learning engineer. And he compiled this list of common data science job interview questions, along with resources you can use to prepare for your first data science role. (15 minute read): https://www.freecodecamp.org/news/23-common-data-science-interview-questions-for-beginners/
+
 1. Spreadsheets are one of the most powerful tools in any developer's toolbox. This course by a data scientist and university professor will teach you how to use Google Sheets like a pro. You'll learn how to prepare data, create charts, and leverage formulas. (3 hour YouTube course): https://www.freecodecamp.org/news/learn-google-sheets/
 
 2. Django is a popular Python web development framework. This course will show you how to use Django to build apps that interface with a variety of APIs. (2 hour YouTube course): https://www.freecodecamp.org/news/how-to-integrate-google-apis-with-python-django/
