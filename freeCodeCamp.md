@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. Blockchain isn't just for investing – you can use these distributed database tools to automate tasks as well. That's where Smart Contracts come in. This Python course will show you how to use Solidity to code your own Smart Contracts right onto the Ethereum blockchain. (16 hour YouTube course): https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/
+
+2. Vue.js is a popular alternative to React and other front end development JavaScript frameworks. In this course, Gwen will teach you how to use Vue.js to build web apps. And you'll learn about Components, Directives, Lifecycle Hooks, and use them to build your own grocery shopping website project. (4 hour YouTube course): https://www.freecodecamp.org/news/vue-3-full-course/
+
+3. Jessica compiled this in-depth list of 460 textbooks you can download. These high school and university textbooks are Creative Commons-licensed by their authors, and you can use them freely. Bookmark this, and the next time you need to buy a textbook or assign one to a student, you may be able to use one of these instead. (browsable list): https://www.freecodecamp.org/news/free-textbooks-math-science-and-more-online-pdf-for-college-and-high-school/
+
+4. In 2014, an Italian developer coded a simple tile-based puzzle game that took the world by storm. That game was called 2048. Your mission – should you choose to accept it – is to build your own 2048 game using React and JavaScript. This step-by-step tutorial will show you how. Then you can share your creation with your friends and get them addicted to it. (25 minute read): https://www.freecodecamp.org/news/how-to-make-2048-game-in-react/
+
+5. And if you want to dive even deeper into Python, this comprehensive course will teach you the most common algorithms and data structures that are likely to come up during job interviews. Many of these are used in modern Machine Learning techniques. (13 hour YouTube course): https://www.freecodecamp.org/news/learn-algorithms-and-data-structures-in-python/
+
 1. This course will teach you the basics of Machine Learning. A young Data Scientist will walk you through some of the main ways engineers use key Machine Learning techniques. He will also show you how to tackle the classic problem of overfitting or underfitting your data. (10 hour YouTube course): https://www.freecodecamp.org/news/free-machine-learning-course-10-hourse/
 
 2. Figma is a powerful prototyping tool for developers. And this in-depth Figma course will show you how to design your websites and apps, then get feedback on them before you start the long process of writing code. (3 hour YouTube course): https://www.freecodecamp.org/news/how-to-use-figma-to-design-websites/
