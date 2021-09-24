@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. 18 years ago, two developers in a Kansas newspaper office coded the first version of the Python Django web development framework. They named it after jazz guitarist Django Reinhardt. Today, thousands of major websites run on Django. This beginner's course by University of Michigan professor Dr. Chuck Severance will teach you how to use Python and Django to build modern web apps. (18 hour YouTube course): https://www.freecodecamp.org/news/django-for-everybody-learn-the-popular-python-framework-from-dr-chuck/
+
+2. And if you want to learn even more Python, this course will show you how to use a wide range of Python libraries to automate tasks. You'll build an image converter, a résumé parser, a news summarizer, and more. (3 hour YouTube course): https://www.freecodecamp.org/news/how-to-automate-things-using-python/
+
+3. How to start freelancing in 2021. Tips from a successful Shopify and WordPress developer who works with multiple clients. (14 minute read): https://www.freecodecamp.org/news/how-to-start-freelancing/
+
+4. As a developer, I've probably spent more time building web forms than anything else. This can be particularly tricky with JavaScript. But these best practices will save you a lot of time and headache. (14 minute read): https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/
+
+5. Hundreds of universities around the world have made programming and computer science courses openly available on the web. My friend Dhawal has compiled 700 of these courses that you can explore. If you want, you can strap these together to build your own school year. (browsable list): https://www.freecodecamp.org/news/free-online-programming-cs-courses/
+
 1. Linux is the most widely-used operating system in the world. It powers most web servers. And since Android was built on top of Linux, it runs on most mobile devices. If you're interested in a career in software development or cyber security, you will want to learn Linux and its command line tools. This course will teach you the basics of Linux servers, networking, and security. (5 hour YouTube course): https://www.freecodecamp.org/news/linux-essentials-for-hackers/
 
 2. Gatsby is an open source front-end development framework. It helps you build fast, reliable static websites using React and other JavaScript tools. These sites generally do not require a traditional back end. Instead they use APIs and CDNs to deliver content to browsers or mobile apps. This in-depth course will show you how to use the latest version of Gatsby to leverage its power. (9 hour YouTube course): https://www.freecodecamp.org/news/learn-gatsby-version-3/
