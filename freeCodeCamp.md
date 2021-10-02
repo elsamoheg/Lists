@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. Learn Git for professionals. This intermediate course will teach you how to use the world's most popular version control system to manage your code. You'll learn the difference between merging and rebasing. You'll also learn about pull requests, branching strategies, and how to wrangle those pesky merge conflicts. (1 hour YouTube course): https://www.freecodecamp.org/news/git-for-professionals/
+
+2. This web design course will walk you through building your own multi-page recipe website. You'll use pure HTML and CSS with no frameworks. This is a great first course for aspiring front end developers. And a solid refresher if you're feeling rusty. (2 hour YouTube course): https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/
+
+3. You may have heard the term DOM Manipulation when talking about web development. But what exactly is the Document Object Model? In this tutorial, Jessica will show you how the DOM works, and how even sophisticated single-page applications still rely on HTML elements as anchors to the page. (10 minute read): https://www.freecodecamp.org/news/what-is-the-dom-document-object-model-meaning-in-javascript/
+
+4. Natural Language Processing (NLP) is how computers glean insights from human languages like English. Python has a powerful NLP library called spaCy. In this course, data scientist and professor Dr. Mattingly will introduce you to NLP concepts like Word Vectors, Named Entity Recognition, EntityRulers and more. (3 hour YouTube course): https://www.freecodecamp.org/news/natural-language-processing-with-spacy-python-full-course/
+
+5. Before there was BitTorrent, people shared files the old fashioned way – from the command line. And if you have a Unix shell available (Mac, Linux, or the Windows 10 Subsystem for Linux should work) you can relive that 1980s experience. This tutorial will show you how to use the handy SCP command to move files from one computer to another using SSH. (7 minute read): https://www.freecodecamp.org/news/scp-linux-command-example-how-to-ssh-file-transfer-from-remote-to-local/
+
 1. 18 years ago, two developers in a Kansas newspaper office coded the first version of the Python Django web development framework. They named it after jazz guitarist Django Reinhardt. Today, thousands of major websites run on Django. This beginner's course by University of Michigan professor Dr. Chuck Severance will teach you how to use Python and Django to build modern web apps. (18 hour YouTube course): https://www.freecodecamp.org/news/django-for-everybody-learn-the-popular-python-framework-from-dr-chuck/
 
 2. And if you want to learn even more Python, this course will show you how to use a wide range of Python libraries to automate tasks. You'll build an image converter, a résumé parser, a news summarizer, and more. (3 hour YouTube course): https://www.freecodecamp.org/news/how-to-automate-things-using-python/
