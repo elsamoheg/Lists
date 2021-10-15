@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. This course taught by legendary freeCodeCamp teacher John Smilga will walk you through building four Node.js and Express.js projects. You'll build your own task manager, ecommerce API, login dashboard using JWT, and finally your own job board API. These projects will give you a sound foundation in API design and back end JavaScript web development. (10 hour YouTube course): https://www.freecodecamp.org/news/build-six-node-js-and-express-js/
+
+2. This Amazon Private Cloud course will teach you how to build your own Virtual Private Cloud (VPC) for your business or personal use. You'll learn important DevOps concepts like Security Groups and Access Control, Subnets, Transit Gateways, IPv6 Addressing, and logging. (2 hour YouTube course): https://www.freecodecamp.org/news/amazon-virtual-private-cloud-course/
+
+3. Prolific freeCodeCamp contributor and software development blogger Flavio Copes just made his entire blogging book freely available on our nonprofit's website. If you are considering writing about your field or your hobbies, this is in my opinion a must-read. (70-page book): https://www.freecodecamp.org/news/how-to-start-a-blog-book/
+
+4. One of the most common questions I get: how can I code my own video games? If you're interested in GameDev, this is a great place to start. Jessica Wilkins breaks down the most common game engines, their strengths, and recommends courses you can use to get started building with them. (10 minute read): https://www.freecodecamp.org/news/how-to-make-a-video-game-create-your-own-game-from-scratch-tutorial/
+
+5. The next time you want to zip up some files, try using Linux's powerful Tar command. It also works in the MacOS terminal and Windows System Linux. This tutorial by Zaira Hira will show you how to create a new file archive and compress it – right from the command line. (5 minute read): https://www.freecodecamp.org/news/how-to-compress-files-in-linux-with-tar-command/
+
 1. Way back in 1983, telephone companies came together to create the Open System Interconnections Model. This OSI Model is a common way to think about networks and security – from the software application layer all the way down to the physical infrastructure. This tutorial will help you understand each of the network layers and the relationships between them. (10 minute read): https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners/
 
 2. If you have a friend or relative who is completely new to computers, share this course with them. It uses fun animations to explain how computers work, how the internet works, and some computer security basics. I watched it with my kindergarten-aged kids, and even they understood it. (1 hour YouTube course): https://www.freecodecamp.org/news/computer-basics-for-absolute-beginners/
