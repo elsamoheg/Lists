@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. React is one of the most widely-used JavaScript front-end development libraries. I did an Indeed job search just now, and saw more than 60,000 job openings in the US that mentioned React. With this in-depth React course, you'll build your own e-commerce website. You'll learn about components, event handling, life cycle phases, error handling, two-way binding, and other key React concepts. (6 hour YouTube course): https://www.freecodecamp.org/news/learn-react-by-building-an-ecommerce-site/
+
+2. Back in the year 2000, the US National Security Agency first released a Linux feature that gives system admins fine-grained control over the security of a computer or server. It's called Security-Enhanced Linux, and it comes built-in with most major Linux distributions. If you're running Linux on a computer or a server, this tutorial by Zaira Hira will show you how to really lock things down. (5 minute read): https://www.freecodecamp.org/news/securing-linux-servers-with-se-linux/
+
+3. Learn Android app development for beginners. Stanford lecturer Rahul Pandey will walk you through building your own tip calculator app. You'll create a mobile user interface using the Kotlin programming language, and even add some basic animations to your app. (90 minute YouTube course): https://www.freecodecamp.org/news/android-app-development-for-beginners/
+
+4. Django is a powerful Python web development framework used by Instagram and Pinterest. This crash course by Python teacher Bobby Stearman will teach you how to code your own interactive résumé website using a professionally-designed and customizable template. (90 minute YouTube course): https://www.freecodecamp.org/news/django-project-create-a-digital-resume-using-django-and-python/
+
+5. A lot of people ask me whether software development is a good fit for them as a career. This article by Jessica Wilkins is a solid place to start your research. It will give you a brief tour of the field and the many sub-disciplines in software engineering. This will help you make more informed career plans. (10 minute read): https://www.freecodecamp.org/news/what-is-software-engineering-how-to-become-a-software-engineer/
+
 1. Unreal Engine is a powerful tool for coding your own video games. And with this GameDev course, you will learn how to use the Unreal Engine to build an "endless runner" game – complete with obstacles, hit detection, and a core gameplay loop. (2 hour YouTube course): https://www.freecodecamp.org/news/code-an-endless-runner-game-using-unreal-engine-and-c/
 
 2. Binary Tree Algorithms come up all the time in developer job interviews. This course will help you understand common questions hiring managers may ask you about these data structures, and how to best answer them. You'll learn about Depth First, Breadth First, Max Root to Leaf Path Sum, and other core concepts. (2 hour YouTube course): https://www.freecodecamp.org/news/how-to-implement-binary-tree-algorithms-in-technical-interviews/
