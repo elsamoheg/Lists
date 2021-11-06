@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. Linux has a famously powerful command line interface. And this course by prolific teacher Colt Steele will ramp up your terminal skills. You'll learn commonly-used commands like tail, diff, chown, and grep. This course will also show you how to use Terminal on Mac or Windows System Linux in Windows 10 so that you can practice these commands while you watch the course. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-the-50-most-used-linux-terminal-commands/
+
+2. Web Applications for Everybody. University of Michigan professor and frequent freeCodeCamp contributor Dr. Chuck Severance will teach the basics of web development all in a single course. You'll learn basic HTML, CSS, and JavaScript. You'll also learn how to use your browser's developer tools to understand HTTP requests. Dr. Chuck even touches on single-table SQL databases. If you're looking for a beginner web development course from an experienced teacher, this is a great place to start. (14 hour YouTube course): https://www.freecodecamp.org/news/web-applications-for-everybody-dr-chuck/
+
+3. And if you're already fairly experienced with web development, this tutorial will show you how to boost your productivity with time-saving workflow automations. You'll learn some helpful tricks for live reloading, testing, version control, and deployment. (10 minute read): https://www.freecodecamp.org/news/how-to-improve-your-web-development-workflow/
+
+4. If you want to get closer to the metal and learn how C works, this tutorial by Bala Priya will show you how C for loops work. She has some elucidating diagrams and C code examples to help you grasp the key concepts. (6 minute read): https://www.freecodecamp.org/news/for-loops-in-c/
+
+5. If you have Spanish-speaking friends who want to learn to code, encourage them to check out this comprehensive HTML and CSS course we just released. The freeCodeCamp community is working hard to localize our 7,000+ tutorials and courses into more than 50 languages, including Arabic, Portuguese, Japanese, and Hindi. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-html-and-css-in-spanish-course-for-beginners/
+
 1. React is one of the most widely-used JavaScript front-end development libraries. I did an Indeed job search just now, and saw more than 60,000 job openings in the US that mentioned React. With this in-depth React course, you'll build your own e-commerce website. You'll learn about components, event handling, life cycle phases, error handling, two-way binding, and other key React concepts. (6 hour YouTube course): https://www.freecodecamp.org/news/learn-react-by-building-an-ecommerce-site/
 
 2. Back in the year 2000, the US National Security Agency first released a Linux feature that gives system admins fine-grained control over the security of a computer or server. It's called Security-Enhanced Linux, and it comes built-in with most major Linux distributions. If you're running Linux on a computer or a server, this tutorial by Zaira Hira will show you how to really lock things down. (5 minute read): https://www.freecodecamp.org/news/securing-linux-servers-with-se-linux/
