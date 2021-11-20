@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. If you want to get into DevOps, Site Reliability Engineering, or other cloud development fields, an AWS certification may go a long way. freeCodeCamp just published an in-depth course to help you prepare for the AWS Certified Cloud Practitioner exam. You'll learn cloud computing concepts, architecture, deployment models, and more. (13 hour YouTube course): https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-certification-study-course-pass-the-exam/
+
+2. Speaking of cloud development, manually deploying your codebase to the cloud several times a day can get tedious. If you learn how to use Infrastructure as Code (IaC), you can automate this process. Code along with this course and you'll learn the basics of IaC with Python, AWS, and the Pulumi open source library. (1 hour YouTube course): https://www.freecodecamp.org/news/what-is-infrastructure-as-code/
+
+3. Learn Advanced Git from industry veteran Tobias Günther. You'll explore Interactive Rebase, Cherry-Picking, Reflog, Submodules, Search & Find, and other advanced Git features. (30 minute YouTube course): https://www.freecodecamp.org/news/advanced-git-interactive-rebase-cherry-picking-reflog-and-more/
+
+4. If you're using a Windows computer, you can improve your personal productivity by customizing the taskbar. This tutorial will give you some tips. (5 minute read): https://www.freecodecamp.org/news/how-to-customize-your-windows10-taskbar-for-productivity/
+
+5. The freeCodeCamp community has grown a lot in 2021. How much? Today I crunched the numbers to find out. In short, people have used freeCodeCamp for more than 2 billion minutes in 2021 – the equivalent of 4,000 years. As you read this sentence, more than 4,000 people are on freeCodeCamp learning about programming and technology. And we've accomplished all of this on a tiny budget, thanks to a growing community of volunteers. This is my full annual report. (8 minute read): https://www.freecodecamp.org/news/freecodecamp-2021-review-budget-usage-statistics/
+
 1. Learn Python API development by building your own social network API. You'll use a powerful library called Fast API, along with the popular Postgres (PostgreSQL) database. This course will show you how to install everything and configure your PC, Mac, or Linux computer for full-stack Python development. You'll even deploy your own API to the web using Docker and Heroku. (19 hour YouTube course): https://www.freecodecamp.org/news/creating-apis-with-python-free-19-hour-course/
 
 2. Micro-frontends let you break a website down into individual features that you can then code separately. This can be super useful during development. This course will teach you about cross platform micro-frontends, asynchronous loading, error handling, shared state, how to route multiple applications together, and how to test micro-frontend code. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-all-about-micro-frontends/
