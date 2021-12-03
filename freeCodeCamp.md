@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. This course will teach you about the 4 most popular types of NoSQL databases: key-value, tabular, document, and graph. freeCodeCamp teacher Ania Kubow will walk you through how to build these databases. You'll leverage each one's interface layer, execution layer, and storage layer. (3 hour YouTube course): https://www.freecodecamp.org/news/learn-nosql-in-3-hours/
+
+2. If you know how to use Microsoft Excel, you already have one of the most powerful data analysis tools at your disposal. This course will help you pair Excel with Python to build pivot tables, Jupyter Notebooks, and other data analysis artifacts. (4 hour YouTube course): https://www.freecodecamp.org/news/data-analysis-with-python-for-excel-users-course/
+
+3. Sim-swapping is a type of cyber attack where someone convinces a phone company employee to transfer your phone number to a new SIM card – a sim card the attacker owns. This happens way more often than you might think. In this tutorial, security researcher Megan Kaczanowski will show you several ways you can protect yourself from these attacks. (13 minute read): https://www.freecodecamp.org/news/protect-yourself-against-sim-swapping-attacks/
+
+4. The Design Thinking process can help you come up with new ways to solve your users' problems. freeCodeCamp Teacher Jessica Wilkins will show you how you can apply Design Thinking to empathize with your users and build better projects. (8 minute read): https://www.freecodecamp.org/news/the-design-thinking-process-explained/
+
+5. Rust is the most-loved programming language in the world, according to 6 back-to-back Stack Overflow surveys. After months of hard work, freeCodeCamp just published a full-length Rust course. Now you can learn Rust development interactively – right in your browser. (Full course where you build two projects): https://www.freecodecamp.org/news/rust-in-replit/
+
 1. If you want to get into DevOps, Site Reliability Engineering, or other cloud development fields, an AWS certification may go a long way. freeCodeCamp just published an in-depth course to help you prepare for the AWS Certified Cloud Practitioner exam. You'll learn cloud computing concepts, architecture, deployment models, and more. (13 hour YouTube course): https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-certification-study-course-pass-the-exam/
 
 2. Speaking of cloud development, manually deploying your codebase to the cloud several times a day can get tedious. If you learn how to use Infrastructure as Code (IaC), you can automate this process. Code along with this course and you'll learn the basics of IaC with Python, AWS, and the Pulumi open source library. (1 hour YouTube course): https://www.freecodecamp.org/news/what-is-infrastructure-as-code/
