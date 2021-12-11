@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. This course by computer science professor and entrepreneur Shad Sluiter will teach you business essentials for developers. You'll learn the basics of product development, agile project management, marketing, and more. (8 hour YouTube course): https://www.freecodecamp.org/news/learn-how-to-build-apps-from-a-business-perspective/
+
+2. The popular Bootstrap responsive design framework just hit Version 5.0. This course will teach you how to make your websites and apps look good on any device size, without having to write a lot of your own custom CSS. (3 hour YouTube course): https://www.freecodecamp.org/news/full-bootstrap-5-tutorial-for-beginners/
+
+3. In the movie Iron Man, Tony Stark has a friendly artificial intelligence named J.A.R.V.I.S. who helps him get things done. You can build your own AI helper in Python with the help of this fun tutorial. (30 minute read): https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/
+
+4. Did you know that you can write code on a phone? There are more than 2 billion people around the world who have access to an Android phone, but not a laptop. In this course, 18-year-old Back End Developer Precious Oladele will show you how he builds apps right from his Android phone, and the many tools available for coding on the go. (1 hour YouTube course): https://www.freecodecamp.org/news/can-you-code-on-a-phone/
+
+5. Over the past 4 months, Boston University sociologist Dilan Eren and I asked more than 18,000 people to anonymously tell us how they are learning to code and which tools they're using. And today I'm proud to announce that we just published the full results, along with a massive open dataset. (10 minute read): https://www.freecodecamp.org/news/2021-new-coder-survey-18000-people-share-how-theyre-learning-to-code/
+
 1. This course will teach you about the 4 most popular types of NoSQL databases: key-value, tabular, document, and graph. freeCodeCamp teacher Ania Kubow will walk you through how to build these databases. You'll leverage each one's interface layer, execution layer, and storage layer. (3 hour YouTube course): https://www.freecodecamp.org/news/learn-nosql-in-3-hours/
 
 2. If you know how to use Microsoft Excel, you already have one of the most powerful data analysis tools at your disposal. This course will help you pair Excel with Python to build pivot tables, Jupyter Notebooks, and other data analysis artifacts. (4 hour YouTube course): https://www.freecodecamp.org/news/data-analysis-with-python-for-excel-users-course/
