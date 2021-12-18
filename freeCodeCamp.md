@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. DevSecOps is where you start thinking about security early in the process of building your app or website. This DevOps and cybersecurity course by Beau Carnes will help you prevent vulnerabilities, threats, and exploits. (90 minute YouTube course): https://www.freecodecamp.org/news/what-is-devsecops/
+
+2. If you want to work with some emerging full-stack development tools, this course is a good place to start. You'll learn Svelte, Prisma, and Vercel, running on top of a sensible Postgres database. And you can code the entire app right in your browser using GitPod. (7 hour YouTube course): https://www.freecodecamp.org/news/become-a-full-stack-developer-with-svelte/
+
+3. Did you know you can run Linux on a Windows computer? In this tutorial, Yosra will show you how to use Windows Subsystem for Linux – also known as WSL – without needing to use a virtual machine or dual-boot your computer. (5 minute read): https://www.freecodecamp.org/news/how-to-run-linux-apps-on-windows-10-11-using-wsl/
+
+4. Linked Lists are an efficient data structure used in high-performance programming. They often come up in developer job interview questions. This course will teach you how to sum, traverse, and reverse a linked list. (90 minute YouTube course): https://www.freecodecamp.org/news/linked-lists-in-technical-interviews/
+
+5. 'Tis the season. This fun tutorial will teach you the basics of SVG images. You'll build several holiday-themed graphics. (20 minute read): https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/
+
 1. This course by computer science professor and entrepreneur Shad Sluiter will teach you business essentials for developers. You'll learn the basics of product development, agile project management, marketing, and more. (8 hour YouTube course): https://www.freecodecamp.org/news/learn-how-to-build-apps-from-a-business-perspective/
 
 2. The popular Bootstrap responsive design framework just hit Version 5.0. This course will teach you how to make your websites and apps look good on any device size, without having to write a lot of your own custom CSS. (3 hour YouTube course): https://www.freecodecamp.org/news/full-bootstrap-5-tutorial-for-beginners/
