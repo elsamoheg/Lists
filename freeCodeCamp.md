@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. We did it. We built a video game. It took 8 months, but Learn To Code RPG is now live, and you can play it for yourself. In this visual novel video game, you learn to code, make friends, and apply for developer jobs. It features original anime-inspired art and a jazz soundtrack written and performed by me. There are more than 600 Computer Science concept quiz questions, dozens of Easter eggs to discover, and multiple endings. And it's all open source. It runs on PC, Mac, and Linux, and we'll soon publish mobile versions of the game, too. You can also watch the 1-hour "let's play" video with Ania Kubow and the game's developer, Lynn Zheng. (fully playable 3 hour game): https://www.freecodecamp.org/news/learn-to-code-rpg/
+
+2. Also, we just published a comprehensive history of the internet, taught by a professor who has been at its forefront since the 1990s: University of Michigan legend Dr. Chuck. You'll learn about ARPANET & CERN, DNS, TCP/IP, network security, and more. (9 hour YouTube course): https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks/
+
+3. This course taught by Ania Kubow will show you how to build your own Customer Relationship Management (CRM) system. You don't even need to know a lot about programming – you can use low-code tools to build out key features. (2 hour YouTube course): https://www.freecodecamp.org/news/build-a-crm/
+
+4. If you're new to the JavaScript ecosystem, one of its most powerful features is modules. In this guide, Madison Kanna will show you how ES Modules work, and how they can speed up your website building process. (8 minute read): https://www.freecodecamp.org/news/javascript-modules-beginners-guide/
+
+5. Linux and MacOS Unix have a convenient tool for securely transferring files from one computer to another. I use this often when I'm working with a remote Linux server. This tutorial by Zaira Hira will show you how to use both the SCP command and the popular network File Transfer Protocol (FTP) to move files. (8 minute read): https://www.freecodecamp.org/news/how-to-transfer-files-between-servers-in-linux-using-scp-and-ftp/
+
 1. DevSecOps is where you start thinking about security early in the process of building your app or website. This DevOps and cybersecurity course by Beau Carnes will help you prevent vulnerabilities, threats, and exploits. (90 minute YouTube course): https://www.freecodecamp.org/news/what-is-devsecops/
 
 2. If you want to work with some emerging full-stack development tools, this course is a good place to start. You'll learn Svelte, Prisma, and Vercel, running on top of a sensible Postgres database. And you can code the entire app right in your browser using GitPod. (7 hour YouTube course): https://www.freecodecamp.org/news/become-a-full-stack-developer-with-svelte/
