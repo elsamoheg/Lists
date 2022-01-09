@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. This in-depth course will show you how to code your own Super Mario video game – complete with physics engine, shaders, sprite sheets, animations, and enemy AI. You'll learn some Java programming and some Java ecosystem game development tools. (25 hour YouTube course): https://www.freecodecamp.org/news/code-a-2d-game-engine-using-java/
+
+2. Figma is a powerful user experience design tool used by web and mobile developers. This course will teach you Figma basics, along with Material Design, vector graphics, and Tailwind CSS. (10 hour YouTube course): https://www.freecodecamp.org/news/ui-design-with-figma-tutorial/
+
+3. How does Git work under the hood? This deep dive will show you the key concepts of version control, and the three states of code changes: modified, staged, and committed. It will also show you how Git tracks files and handles tasks like merging. (15 minute read): https://www.freecodecamp.org/news/git-under-the-hood/
+
+4. The high art of Git commit messages. This tutorial will teach you how to explain to other developers what exactly your code does. (10 minute read): https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/
+
+5. You can start 2022 off strong by accepting my Become-a-Dev New Year's Resolution Challenge. You'll learn about Linux, SQL, and practice your coding. You'll also play our new Learn to Code RPG video game. (5 minute read): https://www.freecodecamp.org/news/2022-become-a-dev-new-years-resolution-challenge/
+
 1. We did it. We built a video game. It took 8 months, but Learn To Code RPG is now live, and you can play it for yourself. In this visual novel video game, you learn to code, make friends, and apply for developer jobs. It features original anime-inspired art and a jazz soundtrack written and performed by me. There are more than 600 Computer Science concept quiz questions, dozens of Easter eggs to discover, and multiple endings. And it's all open source. It runs on PC, Mac, and Linux, and we'll soon publish mobile versions of the game, too. You can also watch the 1-hour "let's play" video with Ania Kubow and the game's developer, Lynn Zheng. (fully playable 3 hour game): https://www.freecodecamp.org/news/learn-to-code-rpg/
 
 2. Also, we just published a comprehensive history of the internet, taught by a professor who has been at its forefront since the 1990s: University of Michigan legend Dr. Chuck. You'll learn about ARPANET & CERN, DNS, TCP/IP, network security, and more. (9 hour YouTube course): https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks/
