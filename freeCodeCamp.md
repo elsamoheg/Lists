@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. React is a popular JavaScript front end development library. This course will teach you React for beginners. Learn about props, state, async functions, JSX, and more. Along the way, you'll build 8 real-world projects, and solve more than 140 interactive coding challenges. (12 hour YouTube course): https://www.freecodecamp.org/news/free-react-course-2022/
+
+2. Learn to solve 10 of the most common coding job interview problems. You'll learn classics like Valid Anagram, Minimum Window Substring, Kth permutation, and Largest Rectangle in Histogram. (2 hour YouTube course): https://www.freecodecamp.org/news/10-common-coding-interview-problems-solved/
+
+3. Code your own Instagram clone full-stack Android app. You'll learn how to use Flutter for coding the native app and user interface. You'll also learn how to use Firebase for your database and authentication. You can sit back and watch or code along at home using the codebase repository on GitHub. (7 hour YouTube course): https://www.freecodecamp.org/news/code-a-full-stack-instagram-clone-with-flutter-and-firebase/
+
+4. If you want to expand your Machine Learning skills in 2022, Manoel has you covered. He dug through tons of course data to find 10 publicly accessible university courses that will teach you key topics from the ground up. (25 minute read): https://www.freecodecamp.org/news/best-machine-learning-courses/
+
+5. How do file systems work? This in-depth article will give you a solid understanding. You'll learn about partitioning schemes, system firmware, booting, and the computer science concepts that underpin them. (45 minute read): https://www.freecodecamp.org/news/file-systems-architecture-explained/
+
 1. This in-depth course will show you how to code your own Super Mario video game – complete with physics engine, shaders, sprite sheets, animations, and enemy AI. You'll learn some Java programming and some Java ecosystem game development tools. (25 hour YouTube course): https://www.freecodecamp.org/news/code-a-2d-game-engine-using-java/
 
 2. Figma is a powerful user experience design tool used by web and mobile developers. This course will teach you Figma basics, along with Material Design, vector graphics, and Tailwind CSS. (10 hour YouTube course): https://www.freecodecamp.org/news/ui-design-with-figma-tutorial/
