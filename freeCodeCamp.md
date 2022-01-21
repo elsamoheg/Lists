@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. freeCodeCamp just published an entire book on Arch Linux. If you want to get into the most customizable Linux distribution, this book will show you how to install it and season to taste. (free full-length handbook): https://www.freecodecamp.org/news/how-to-install-arch-linux/
+
+2. Build your own version of the Netflix website using Python Django and Tailwind CSS. You can code along at home and get some practice building APIs and tweaking user interfaces. (2 hour YouTube course): https://www.freecodecamp.org/news/create-a-netflix-clone-with-django-and-tailwind-css/
+
+3. Next.js is a React framework that describes itself as "unopinionated" and "batteries-included". It combines simple tools like Create React App with more advanced features. This tutorial will show you how to build a Next.js app. You'll learn about pages, routes, data requests, SEO considerations, and more. (20 minute read): https://www.freecodecamp.org/news/nextjs-tutorial/
+
+4. Kubernetes is a popular open-source DevOps tool. It can help automate the deployment, management, scaling, and networking of containers. This course will help you learn it so you can more easily deploy apps to production. (3 hour YouTube course): https://www.freecodecamp.org/news/learn-kubernetes-and-start-containerizing-your-applications/
+
+5. And if you want to get certified in Kubernetes, freeCodeCamp just published this guide to the official Certified Kubernetes Administrator Exam. This will help you decide whether the certification is worth the effort. Then it will cover all five modules in detail. It also includes a handy kubectl cheat sheet. (25 minute read): https://www.freecodecamp.org/news/certified-kubernetes-administrator-study-guide-cka/
+
 1. React is a popular JavaScript front end development library. This course will teach you React for beginners. Learn about props, state, async functions, JSX, and more. Along the way, you'll build 8 real-world projects, and solve more than 140 interactive coding challenges. (12 hour YouTube course): https://www.freecodecamp.org/news/free-react-course-2022/
 
 2. Learn to solve 10 of the most common coding job interview problems. You'll learn classics like Valid Anagram, Minimum Window Substring, Kth permutation, and Largest Rectangle in Histogram. (2 hour YouTube course): https://www.freecodecamp.org/news/10-common-coding-interview-problems-solved/
