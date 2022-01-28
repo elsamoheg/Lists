@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. This course will show you how to build your own video games using an open source JavaScript GameDev engine called GDevelop. You'll build a Mario Bros. platform game and an Asteroids space shooting game. You can publish your games to the web or to iPhone / Android. You don't need any previous programming experience. (1 hour YouTube course): https://www.freecodecamp.org/news/create-a-platformer-game-with-gdevelop/
+
+2. freeCodeCamp just published our first-ever AutoCAD course, taught by architect and Lund University lecturer Gediminas Kirdeikis. Computer Aided Design is a powerful tool for creating 3D models, most often in the field of architecture. (6 hour YouTube course): https://www.freecodecamp.org/news/learn-autocad-with-this-free-course/
+
+3. HTTP is a set of rules for how servers share resources on the web. In this tutorial, Camila will show you how to use the common HTTP methods – Get, Put, Post, Patch, and Delete – to coordinate servers and clients. (20 minute read): https://www.freecodecamp.org/news/http-request-methods-explained/
+
+4. Self-driving car prototypes rely heavily on Computer Vision for perceiving their surroundings. This Python Deep Learning course will explain how cars can "see" the road, and how they process this information using neural networks. (2 hour YouTube course): https://www.freecodecamp.org/news/perception-for-self-driving-cars-deep-learning-course/
+
+5. Learn how to use TypeScript with your React apps. This course will teach you about aliases, inheritance, reducers, React Hooks, and more – all while coding your own todo list app. (2 hour watch): https://www.freecodecamp.org/news/how-to-code-your-react-app-with-typescript/
+
 1. freeCodeCamp just published an entire book on Arch Linux. If you want to get into the most customizable Linux distribution, this book will show you how to install it and season to taste. (free full-length handbook): https://www.freecodecamp.org/news/how-to-install-arch-linux/
 
 2. Build your own version of the Netflix website using Python Django and Tailwind CSS. You can code along at home and get some practice building APIs and tweaking user interfaces. (2 hour YouTube course): https://www.freecodecamp.org/news/create-a-netflix-clone-with-django-and-tailwind-css/
