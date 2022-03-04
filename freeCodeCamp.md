@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. One of the best ways to practice your coding skills is to build projects. In this course, Ania will walk you through building 7 retro video games, including Whac-a-Mole, Breakout, Frogger, and Space Invaders. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-javascript-by-coding-7-games/
+
+2. Jessica is an orchestral musician who played live on national television at last month's NFL award ceremony. She explores how she became a software developer by using freeCodeCamp. (15 minute read): https://www.freecodecamp.org/news/how-i-went-from-a-classical-musician-to-software-developer-and-techinal-writer/
+
+3. GitLab is an open source Git repository tool. This DevOps course will show you how to use GitLab to build Continuous Integration Build Pipelines, and then deploy them to AWS. (5 hour YouTube course): https://www.freecodecamp.org/news/devops-with-gitlab-ci-course/
+
+4. Learn how to build your own e-commerce store using WordPress and WooCommerce. This hands-on tutorial will guide you through the process of getting your own store live within just a few hours. (90 minute YouTube): https://www.freecodecamp.org/news/how-to-create-an-ecommere-website-using-woocomerce/
+
+5. Project Euler is a legendary collection of coding challenges first published in 2001. The freeCodeCamp community recently wrote tests for these challenges and made them solvable in JavaScript. And now you can solve them in Rust, too. (hundreds of hours of coding challenges): https://www.freecodecamp.org/news/project-euler-problems-in-rust/
+
 1. Flutter is a popular open-source toolkit for coding cross-platform apps. You can then run these apps on Android, iOS, Windows, and Mac. freeCodeCamp uses Flutter to build our own Android app, rather than Android's usual Java code. And I have a lot of friends working at big tech companies who develop using it, too. This in-depth course for beginners will show you how to build your own app and publish it. (37 hour YouTube course): https://www.freecodecamp.org/news/learn-flutter-full-course/
 
 2. If you've ever wanted to learn how to use Linux as your operating system, this course is for you. It will walk you through the Linux tool ecosystem and help you install it on a computer. You'll gain an understanding of Linux's file structure, package manager, and more. (3 hour YouTube course): https://www.freecodecamp.org/news/learn-the-basics-of-the-linux-operating-system/
