@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. Go is a lightning-fast programming language used by Google, Apple, Twitch, and other companies that have lots of concurrent users. In this beginner Go course, you'll learn the fundamentals by building 11 different projects: a web server, a chat bot, an API, and more. (8 hour YouTube course): https://www.freecodecamp.org/news/learn-go-by-building-11-projects/
+
+2. React is a powerful front end JavaScript library. You can use it to build single-page web applications. But did you know you can also use it to make fun animations? This course will show you how to spruce up your portfolio page with some React animations. (90-minute YouTube course): https://www.freecodecamp.org/news/create-a-portfolio-with-react-featuring-cool-animations/
+
+3. One of the most important developer skills is being able to look things up quickly. This tutorial will show you some advanced Google search features like wildcards, the minus operator, and date operators. (5 minute read): https://www.freecodecamp.org/news/use-google-search-tips/
+
+4. JavaScript has a more buttoned-down cousin called TypeScript. It adds static types to JavaScript, which reduces the likelihood of bugs in your code. And it runs in the browser, just like JavaScript does. If you already know some JavaScript, this tutorial will quickly bring you up-to-speed on using TypeScript, too. (20 minute read): https://www.freecodecamp.org/news/an-introduction-to-typescript/
+
+5. One of Git's most powerful tools is its "git diff" command. It lists the differences between two files, commits, or git branches. This tutorial will show you some of the ways you can use git diff, and how to make sense of the command's output. (10 minute read): https://www.freecodecamp.org/news/git-diff-command/
+
 1. If you're new to coding, Python is a beginner-friendly language to start with. This course will teach you how to install Python and build your first projects. You'll learn about data structures, loops, control flow, and even a bit about virtual environments. (3 hour YouTube course): https://www.freecodecamp.org/news/free-python-crash-course/
 
 2. Visual Studio Code is an open source code editor that most of the freeCodeCamp team uses. One of its coolest features is extensions. They can save you a ton of time when you're coding. This course will show how to make use of 10 popular extensions, including GitLens, Prettier, Docker, and ESLint. (30 minute YouTube course): https://www.freecodecamp.org/news/vs-code-extensions-to-increase-developer-productivity/
