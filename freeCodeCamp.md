@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. Linux and Unix-based operating systems like MacOS have powerful command line interfaces. This handbook for beginners will show you how to open up your terminal, run some common Git commands, and even write your first shell script. (40 minute read): https://www.freecodecamp.org/news/command-line-for-beginners/
+
+2. GitPod is an open source Cloud Developer Environment. With it, you can write and execute code on remote servers – right from the comfort of your browser. This makes it easier to collaborate with friends on coding projects, or to test out other people's code before merging it into your codebase. Andrew Brown created this in-depth course on how to use GitPod, and how you can earn a GitPod certification. (12 hour YouTube course) https://www.freecodecamp.org/news/exampro-cloud-developer-environment-certification-gitpod-course/
+
+3. As I type this, there are more than 28,000 job openings seeking a "Full-Stack Developer". But what exactly is full-stack development? In this guide, Dionysia will explain some core concepts. And she'll give you some tips for learning key skills to land the job. (25 minute read): https://www.freecodecamp.org/news/what-is-a-full-stack-developer-full-stack-engineer-guide/
+
+4. Figma is a popular design tool for planning out apps and their functionality – all before you embark on the lengthy process of coding them. This intermediate design course – taught by an experienced UX Designer – will show you how to use one of Figma's key features: Variants. Variants will help you streamline your design process and group related components in a single container. (5 hour YouTube course): https://www.freecodecamp.org/news/design-a-scalable-mobile-app-with-figma-variants/
+
+5. Break The Code 2.0 is a new browser game that sends you back in time to the year 1999. You complete codebreaking missions using your programming knowledge and your puzzle-solving intuition. In addition to cracking the game's many ciphers, you can explore the Windows 98-inspired game environment. It includes a lot of nostalgia-inducing Easter eggs. (Interactive coding game): https://www.freecodecamp.org/news/break-the-code-2-game/
+
 1. Go is a lightning-fast programming language used by Google, Apple, Twitch, and other companies that have lots of concurrent users. In this beginner Go course, you'll learn the fundamentals by building 11 different projects: a web server, a chat bot, an API, and more. (8 hour YouTube course): https://www.freecodecamp.org/news/learn-go-by-building-11-projects/
 
 2. React is a powerful front end JavaScript library. You can use it to build single-page web applications. But did you know you can also use it to make fun animations? This course will show you how to spruce up your portfolio page with some React animations. (90-minute YouTube course): https://www.freecodecamp.org/news/create-a-portfolio-with-react-featuring-cool-animations/
