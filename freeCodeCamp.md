@@ -1,5 +1,15 @@
 ### freeCodeCamp Links
 
+1. Learn Python object-oriented programming by coding your own playable version of the classic Windows Minesweeper game. You'll code the graphics, gameplay, and even the algorithm that determines where the mines go. (3 hour YouTube course): https://www.freecodecamp.org/news/object-oriented-programming-with-python-code-a-minesweeper-game/
+
+2. You may have heard the term "Rubber Duck Debugging" before. This is a simple way you can debug problems in your code, and solve them yourself. This brief article will give you the history behind Rubber Duck Debugging, and some tips for using it when you code. (6 minute read): https://www.freecodecamp.org/news/rubber-duck-debugging/
+
+3. Redux is a popular open source tool for managing JavaScript state. And the team behind it created the Redux Toolkit to make it easier to follow Redux best practices. In this course, long-time freeCodeCamp contributor John Smilga will teach you about Setup Store, createAsyncThunk, and other key concepts. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-redux-toolkit-the-recommended-way-to-use-redux/
+
+4. If you've used Linux before, you may have discovered how security-focused it is by default. This guide will walk you through Linux file permissions, file ownership, superusers, and explain what on earth drwxrwx--- means. (6 minute read): https://www.freecodecamp.org/news/linux-permissions-how-to-find-permissions-of-a-file/
+
+5. If you want to code your own blog instead of using common tools like WordPress or Ghost, this tutorial will show you how. You'll use React along with other open source JavaScript tools like Next.js and MDX. (30 minute read) https://www.freecodecamp.org/news/how-to-build-your-own-blog-with-next-js-and-mdx/
+
 1. There are three big desktop operating systems: Linux, MacOS, and Windows. And this handbook will help you appreciate their relative strengths and weaknesses. You'll also learn about their histories, and key features like file systems and package managers. (full handbook): https://www.freecodecamp.org/news/an-introduction-to-operating-systems/
 
 2. Terraform is an open source Infrastructure-as-Code tool. It helps you write code that will spin up cloud servers and other cloud services. This saves you the hassle of manually configuring them each time you want to deploy. This course will teach you how to use Terraform and AWS to build your own development environment. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-terraform-and-aws-by-building-a-dev-environment/
