@@ -371,7 +371,6 @@
 5. Some of the most common developer job interview questions involve graph algorithms. This course will teach you graph data structure basics, and concepts like undirected paths, depth-first VS breadth-first traversal, shortest path, island count, and minimum island. (2 hour YouTube course): https://www.freecodecamp.org/news/graph-algorithms-for-technical-interviews/
 
 1. Docker is an open source tool for deploying your apps to any cloud service you want. This course will teach you some Docker fundamentals. Then it will show you how to deploy apps from 12 different ecosystems – Python, JavaScript, Java, and others – to AWS, Azure, or Google Cloud. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-how-to-deploy-12-apps-to-aws-azure-google-cloud/
-
 Also, a few months back freeCodeCamp published an entire book on Docker, which you can bookmark to use as a reference. Docker is definitely worth learning, and we ourselves use it on more than 60 of freeCodeCamp's servers. (4 hour read): https://www.freecodecamp.org/news/the-docker-handbook/
 
 2. Some of the most commonly-asked developer job interview questions involve backtracking algorithms. To prepare you for these, Lynn has created this crash course on solving backtracking problems using Python. (1 hour YouTube course): https://www.freecodecamp.org/news/solve-coding-interview-backtracking-problem/
