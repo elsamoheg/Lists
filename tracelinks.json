@@ -2,12 +2,12 @@
 
   {
     company: w3,
-    compan_url: "https://www.w3schools.com"
+    company_url: "https://www.w3schools.com"
   },
 
   {
     company: Audi Wikipedia,
-    compan_url: "https://en.wikipedia.org/wiki/Audi"
+    company_url: "https://en.wikipedia.org/wiki/Audi"
   }
 
 ]}
